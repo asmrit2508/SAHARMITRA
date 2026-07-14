@@ -1355,7 +1355,10 @@ if generate_button:
 # PRIORITY DISTRIBUTION
 # -----------------------------------------
 
-    st.subheader("Priority Distribution")
+    st.markdown(
+        '<div class="section-title">Priority Distribution</div>',
+        unsafe_allow_html=True  
+    )
 
     priority_chart = analytics_result[
         "priority_distribution"
@@ -1371,7 +1374,10 @@ if generate_button:
 # PROCUREMENT ROUTE DISTRIBUTION
 # -----------------------------------------
 
-    st.subheader("Procurement Route Distribution")
+    st.markdown(
+        '<div class="section-title">PROCUREMENT ROUTE DISTRIBUTION</div>',
+        unsafe_allow_html=True  
+    )
 
     route_chart = analytics_result[
         "route_distribution"
@@ -1387,7 +1393,10 @@ if generate_button:
 # CATEGORY DISTRIBUTION
 # -----------------------------------------
 
-    st.subheader("Category Distribution")
+    st.markdown(
+        '<div class="section-title">CATEGORY DISTRIBUTION</div>',
+        unsafe_allow_html=True  
+    )
 
     category_chart = analytics_result[
         "category_distribution"
@@ -1403,7 +1412,10 @@ if generate_button:
 # TOP COST EQUIPMENT
 # -----------------------------------------
 
-    st.subheader("Top Cost Equipment")
+    st.markdown(
+        '<div class="section-title">TOP COST EQUIPMENT</div>',
+        unsafe_allow_html=True  
+    )
 
     top_cost_df = analytics_result[
         "top_cost_equipment"
