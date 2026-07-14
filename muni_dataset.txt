@@ -1,0 +1,25 @@
+Added
+
+municipality_code,
+municipality_name,
+state,
+municipality_type,
+population,
+area_sq_km,
+waste_generation_tons_per_day,
+oad_length_km,
+annual_budget_lakhs,
+category_code,
+item_id,
+equipment_name,
+category,
+sub_function,
+equipment_type,
+quantity_allocated
+
+
+
+
+
+To be Added
+

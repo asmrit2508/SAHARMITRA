@@ -1,0 +1,174 @@
+equipment_id,equipment_name,total_stock,cost_per_unit
+E001,Garbage Compactor Truck,120,2500000
+E002,Mini Garbage Tipper,180,1800000
+E003,Refuse Collector Vehicle,100,3200000
+E004,Portable Waste Compactor,220,850000
+E005,Mechanical Road Sweeper,60,1800000
+E006,Vacuum Road Sweeper,45,2200000
+E007,Dumper Placer Vehicle,90,2700000
+E008,Waste Collection Container,350,120000
+E009,Hydraulic Waste Loader,110,1500000
+E010,Transfer Station Container,80,900000
+E011,Plastic Baler Machine,95,750000
+E012,Organic Waste Shredder,100,650000
+E013,Bio Waste Composting Machine,70,900000
+E014,Portable Garbage Bin Set,500,15000
+E015,Skid Steer Loader,85,2100000
+E016,Waste Conveyor Belt Unit,130,500000
+E017,Industrial Waste Crusher,55,1600000
+E018,Dumpster Container,400,50000
+E019,Front Loader Waste Vehicle,75,3000000
+E020,Waste Segregation Conveyor,100,700000
+E021,Compaction Chamber Unit,65,850000
+E022,Portable Bin Lifter,300,120000
+E023,Underground Waste Container,80,250000
+E024,Bulk Waste Storage Hopper,120,180000
+E025,Waste Sorting Machine,60,1300000
+E026,Mobile Compost Unit,70,600000
+E027,Waste Transfer Vehicle,95,2400000
+E028,Mobile Waste Collection Unit,130,800000
+E029,Sewer Jetting Machine,70,2200000
+E030,Sewer Suction Cum Jetting Machine,55,2800000
+E031,Drain Desilting Machine,80,1600000
+E032,Drain Excavator Unit,50,3500000
+E033,Sewer Inspection Camera,45,1400000
+E034,Portable Drain Cleaner,180,300000
+E035,Drain Rodding Machine,90,500000
+E036,High Pressure Sewer Cleaner,60,2000000
+E037,Drain Jetting Pump,120,450000
+E038,Manhole Cleaning Robot,20,4500000
+E039,Sewer Safety Tripod Kit,250,80000
+E040,Portable Sludge Pump,170,250000
+E041,Drain Cleaning Machine,100,1200000
+E042,Sewer Vacuum Tanker,50,2600000
+E043,Portable Manhole Lifter,300,40000
+E044,Desilting Bucket Attachment,110,180000
+E045,Drain CCTV Inspection Unit,25,3800000
+E046,Floating Trash Skimmer,35,4200000
+E047,Portable Flood Pump,140,350000
+E048,Emergency Drainage Vehicle,40,3200000
+E049,Canal Cleaning Machine,25,5000000
+E050,Portable Dewatering Pump,160,280000
+E051,Water Tanker Truck,100,1200000
+E052,Water Supply Pipeline Vehicle,60,2300000
+E053,Pipe Leakage Detection Machine,80,1100000
+E054,Water Quality Testing Van,45,2500000
+E055,Portable Chlorination Unit,150,450000
+E056,Water Pressure Testing Pump,130,350000
+E057,Storm Drain Vacuum Cleaner,55,2000000
+E058,Portable Water Purification Unit,100,650000
+E059,Pipeline Repair Machine,75,1750000
+E060,Emergency Water Pump Unit,140,500000
+E061,Mobile Water Treatment Plant,35,6500000
+E062,Water Pipeline Flushing Unit,70,1500000
+E063,Portable Borewell Rig,25,4200000
+E064,Water Meter Calibration Unit,90,350000
+E065,Mobile RO Purification Unit,55,2800000
+E066,Hydraulic Pipe Laying Machine,40,5500000
+E067,Borewell Cleaning Machine,60,1600000
+E068,Portable Water Storage Tank,220,90000
+E069,Water Tank Cleaning Machine,85,700000
+E070,Emergency Water Supply Tanker,50,1800000
+E071,Sewer Pipeline Inspection Robot,18,5200000
+E072,Pipeline Inspection Camera,45,1400000
+E073,Portable Jetting Machine,100,650000
+E074,Sewage Pumping Unit,55,2200000
+E075,Sewage Treatment Blower,30,4500000
+E076,Portable Sludge Dewatering Unit,40,2600000
+E077,STP Aeration Equipment,35,3800000
+E078,Emergency Water Supply Vehicle,30,3000000
+E079,Industrial Sewage Treatment Pump,25,4800000
+E080,Portable Filtration Unit,120,500000
+E081,Road Marking Machine,80,1100000
+E082,Asphalt Distributor Truck,35,5200000
+E083,Pothole Repair Machine,70,1800000
+E084,Concrete Mixer Truck,65,2400000
+E085,Bitumen Sprayer Unit,55,1500000
+E086,Road Roller,40,3200000
+E087,Hydraulic Road Cutter,85,900000
+E088,Asphalt Paver Machine,30,7500000
+E089,Road Crack Sealing Machine,75,1300000
+E090,Portable Traffic Barrier Unit,400,12000
+E091,Road Surface Scanner,20,4500000
+E092,Bridge Inspection Vehicle,18,9000000
+E093,Concrete Cutting Machine,95,650000
+E094,Road Painting Vehicle,30,2600000
+E095,Portable Asphalt Heater,100,350000
+E096,Road Leveling Machine,28,5800000
+E097,Cement Mixing Plant,20,12000000
+E098,Portable Concrete Pump,50,2200000
+E099,Bridge Maintenance Crane,15,15000000
+E100,Emergency Road Repair Vehicle,22,4800000
+E101,Portable Generator for Road Work,150,180000
+E102,Road Sign Installation Machine,70,850000
+E103,Road Repair Patch Machine,90,950000
+E104,Street Light Maintenance Vehicle,60,2400000
+E105,Pavement Compactor,80,700000
+E106,Traffic Management Vehicle,45,3200000
+E107,Portable Generator,250,150000
+E108,Electrical Maintenance Van,55,2200000
+E109,Underground Cable Locator,60,1100000
+E110,Transformer Repair Vehicle,25,5000000
+E111,High Mast Maintenance Crane,18,8200000
+E112,Portable Welding Unit,140,250000
+E113,Street Light Installation Kit,200,50000
+E114,Cable Fault Detection Machine,40,2800000
+E115,Solar Street Light Repair Unit,55,1600000
+E116,Mobile Repair Van,75,1800000
+E117,Portable Battery Backup Unit,180,120000
+E118,Emergency Electrical Generator,35,3000000
+E119,Transformer Testing Machine,22,4500000
+E120,Portable Electrical Tool Kit,350,35000
+E121,Public Toilet Cleaning Vehicle,70,2100000
+E122,Portable Toilet Cabin Unit,180,85000
+E123,Sewage Suction Vehicle,40,3500000
+E124,Public Toilet Sanitization Machine,120,250000
+E125,Portable Bio Toilet Unit,100,180000
+E126,Fogging Machine,200,95000
+E127,Vector Control Spray Vehicle,45,2400000
+E128,Portable Disinfection Unit,160,120000
+E129,Portable Hand Wash Station,300,18000
+E130,Biomedical Waste Carrier,55,1900000
+E131,Hospital Waste Incinerator,20,6500000
+E132,Public Washroom Maintenance Vehicle,35,2800000
+E133,Portable Medical Waste Bin Set,250,12000
+E134,Sanitation Inspection Drone,18,4800000
+E135,Emergency Medical Response Vehicle,22,5200000
+E136,Disaster Rescue Boat,15,8500000
+E137,Flood Rescue Inflatable Boat,35,2800000
+E138,Portable Emergency Shelter Unit,90,450000
+E139,Disaster Response Truck,18,7200000
+E140,Portable Communication Tower,20,5500000
+E141,Emergency Warning Siren System,80,300000
+E142,Portable Solar Lighting Unit,140,150000
+E143,Hydraulic Rescue Cutter,35,2200000
+E144,Debris Removal Loader,40,3800000
+E145,Portable Oxygen Supply Unit,120,90000
+E146,Emergency Generator Unit,60,1800000
+E147,Portable Satellite Communication Kit,12,9500000
+E148,Emergency Medical Tent,75,250000
+E149,Portable Fire Suppression Unit,100,180000
+E150,Disaster Surveillance Drone,15,6200000
+E151,Portable Command Center Unit,10,15000000
+E152,Portable GIS Mapping Workstation,18,7000000
+E153,Portable Life Support Kit,200,75000
+E154,Disaster Recovery Crane,12,18000000
+E155,Fire Tender Vehicle,25,8500000
+E156,Portable Fire Pump,100,320000
+E157,Emergency Evacuation Bus,18,6500000
+E158,Emergency Traffic Diversion Unit,150,85000
+E159,Portable Barricade Set,400,10000
+E160,Portable Emergency Water Storage,180,65000
+E161,Rapid Response Utility Vehicle,40,4200000
+E162,Portable Laboratory Testing Unit,25,5500000
+E163,Air Quality Monitoring Station,30,3200000
+E164,Noise Pollution Monitoring Unit,40,1800000
+E165,Environmental Sensor Network Hub,25,4500000
+E166,Portable Weather Monitoring Station,35,2200000
+E167,Municipal Survey Drone,20,6000000
+E168,GIS Survey Vehicle,18,8200000
+E169,Portable Mapping Tablet Kit,120,95000
+E170,Smart Traffic Monitoring Camera,80,280000
+E171,Portable Data Collection Terminal,180,60000
+E172,Portable Municipal Command Vehicle,12,12500000
+E173,Integrated Municipal Operations Control Unit,8,25000000

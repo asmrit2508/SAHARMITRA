@@ -1,0 +1,174 @@
+equipment_id,equipment_name,procurement_category,sub_category,unit_cost_lakhs,annual_maintenance_percent,life_cycle_years,usage_frequency_score,criticality_score,depends_population,depends_waste_generation,depends_road_network,depends_water_supply,depends_drainage,depends_sewerage,depends_flood_risk,depends_industrial_activity,depends_construction_activity,depends_tourism_activity,operational_type
+E001,Garbage Compactor Truck,SWM,Waste Collection,25,8,10,10,10,1,1,0,0,0,0,0,0,0,0,Vehicle
+E002,Mini Garbage Tipper,SWM,Waste Transport,12,7,8,9,9,1,1,0,0,0,0,0,0,0,0,Vehicle
+E003,Refuse Collector Vehicle,SWM,Waste Collection,18,7,9,9,9,1,1,0,0,0,0,0,0,0,0,Vehicle
+E004,Portable Waste Compactor,SWM,Waste Compression,9,6,7,8,8,1,1,0,0,0,0,0,0,0,0,Mechanical
+E005,Mechanical Road Sweeper,SWM,Road Cleaning,18,8,10,9,9,1,0,1,0,0,0,0,0,0,1,Vehicle
+E006,Vacuum Road Sweeper,SWM,Road Cleaning,22,8,10,10,10,1,0,1,0,0,0,0,0,0,1,Vehicle
+E007,Dumper Placer Vehicle,SWM,Waste Transfer,15,7,9,8,8,1,1,0,0,0,0,0,0,0,0,Vehicle
+E008,Waste Collection Container,SWM,Waste Storage,4,4,8,8,8,1,1,0,0,0,0,0,0,0,0,Static
+E009,Hydraulic Waste Loader,SWM,Waste Loading,14,7,9,8,8,1,1,0,0,0,0,0,0,0,0,Mechanical
+E010,Transfer Station Container,SWM,Waste Storage,7,5,10,7,8,1,1,0,0,0,0,0,0,0,0,Static
+E011,Plastic Baler Machine,SWM,Recycling,10,6,8,6,7,1,1,0,0,0,0,0,1,0,0,Mechanical
+E012,Organic Waste Shredder,SWM,Composting,8,6,8,7,8,1,1,0,0,0,0,0,0,0,0,Mechanical
+E013,Bio Waste Composting Machine,SWM,Waste Processing,13,7,10,7,8,1,1,0,0,0,0,0,0,0,0,Mechanical
+E014,Portable Garbage Bin Set,SWM,Waste Storage,2,3,5,9,7,1,1,0,0,0,0,0,0,0,1,Static
+E015,Skid Steer Loader,SWM,Waste Handling,16,8,9,7,8,1,1,0,0,0,0,0,1,1,0,Vehicle
+E016,Waste Conveyor Belt Unit,SWM,Sorting,11,6,9,6,7,1,1,0,0,0,0,0,0,0,0,Mechanical
+E017,Industrial Waste Crusher,SWM,Waste Processing,20,8,10,5,8,0,1,0,0,0,0,0,1,0,0,Mechanical
+E018,Dumpster Container,SWM,Waste Storage,5,4,8,8,7,1,1,0,0,0,0,0,0,0,0,Static
+E019,Front Loader Waste Vehicle,SWM,Waste Collection,19,7,10,8,8,1,1,0,0,0,0,0,0,0,0,Vehicle
+E020,Waste Segregation Conveyor,SWM,Sorting,12,6,8,6,7,1,1,0,0,0,0,0,0,0,0,Mechanical
+E021,Leaf Collection Vacuum Unit,SWM,Road Cleaning,7,5,7,6,6,1,0,1,0,0,0,0,0,0,1,Mechanical
+E022,Portable Bin Lifter,SWM,Waste Handling,6,5,7,7,7,1,1,0,0,0,0,0,0,0,0,Mechanical
+E023,Waste Hopper Unit,SWM,Waste Storage,4,4,8,7,6,1,1,0,0,0,0,0,0,0,0,Static
+E024,Biomedical Waste Carrier,SWM,Special Waste,15,7,8,5,8,1,1,0,0,0,0,0,0,0,0,Vehicle
+E025,Municipal Waste Crane,SWM,Waste Loading,28,8,12,6,8,1,1,0,0,0,0,0,1,0,0,Mechanical
+E026,Street Cleaning Cart,SWM,Street Cleaning,1,2,5,9,6,1,0,1,0,0,0,0,0,0,1,Manual
+E027,Waste Transfer Trailer,SWM,Waste Transport,17,7,9,7,8,1,1,0,0,0,0,0,0,0,0,Vehicle
+E028,Mobile Waste Collection Unit,SWM,Waste Collection,14,7,8,8,8,1,1,0,0,0,0,0,0,0,0,Vehicle
+E029,Truck Mounted Suction Cum Jetting Machine,Sewerage,Sewer Cleaning,42,8,10,10,10,1,0,0,0,1,1,0,0,0,0,Vehicle
+E030,Sewer Jetting Machine,Sewerage,Sewer Cleaning,24,7,9,9,9,1,0,0,0,1,1,0,0,0,0,Mechanical
+E031,High Pressure Sewer Cleaner,Sewerage,Pipeline Cleaning,20,7,8,8,9,1,0,0,0,1,1,0,0,0,0,Mechanical
+E032,Root Cutting System for Sewer Line,Sewerage,Pipeline Maintenance,14,6,8,7,8,1,0,0,0,0,1,0,0,0,0,Mechanical
+E033,Sewer Inspection Camera,Sewerage,Monitoring,18,5,8,7,8,1,0,0,0,0,1,0,0,0,0,Electronic
+E034,Portable Pipeline CCTV Unit,Sewerage,Monitoring,22,6,8,6,8,1,0,0,0,0,1,0,0,0,0,Electronic
+E035,Vacuum Sludge Tanker,Sewerage,Waste Extraction,30,7,10,8,9,1,0,0,0,1,1,0,0,0,0,Vehicle
+E036,Manhole Desilting Machine,Sewerage,Maintenance,16,6,8,8,8,1,0,0,0,1,1,0,0,0,0,Mechanical
+E037,Sewer Cleaning Robot,Sewerage,Automation,45,8,10,6,9,1,0,0,0,0,1,0,0,0,0,Electronic
+E038,Portable Sludge Pump,Sewerage,Pumping,8,5,7,7,7,1,0,0,0,1,1,1,0,0,0,Mechanical
+E039,Drain Rodding Machine,Sewerage,Pipeline Maintenance,9,5,7,7,7,1,0,0,0,1,1,0,0,0,0,Mechanical
+E040,Underground Pipe Locator,Sewerage,Inspection,12,5,8,6,7,1,0,0,0,0,1,0,0,1,0,Electronic
+E041,Drain Cleaning Machine,Drainage,Drain Maintenance,15,6,8,9,9,1,0,0,0,1,0,1,0,0,0,Mechanical
+E042,Portable Dewatering Pump,Drainage,Flood Control,9,5,7,8,9,1,0,0,0,1,0,1,0,0,0,Mechanical
+E043,High Capacity Pump Set,Drainage,Flood Pumping,18,6,9,8,9,1,0,0,0,1,0,1,0,0,0,Mechanical
+E044,Storm Water Pump,Drainage,Stormwater Management,22,7,10,8,10,1,0,0,0,1,0,1,0,0,0,Mechanical
+E045,Submersible Pump Unit,Drainage,Pumping,6,4,7,8,8,1,0,0,0,1,0,1,0,0,0,Mechanical
+E046,Canal Desilting Machine,Drainage,Desilting,28,8,10,7,9,1,0,0,0,1,0,1,0,0,0,Mechanical
+E047,Portable Flood Barrier Unit,Drainage,Flood Prevention,12,5,8,6,8,0,0,0,0,1,0,1,0,0,0,Static
+E048,Emergency Drainage Vehicle,Drainage,Emergency Response,20,7,9,7,9,1,0,0,0,1,0,1,0,0,0,Vehicle
+E049,Drain Excavation Unit,Drainage,Excavation,30,8,10,6,8,0,0,0,0,1,0,1,0,1,0,Mechanical
+E050,Portable Sandbag Filling Machine,Drainage,Flood Defense,8,4,6,5,7,0,0,0,0,1,0,1,0,0,0,Mechanical
+E051,Drain Jetting Machine,Drainage,Drain Cleaning,17,6,8,8,9,1,0,0,0,1,0,1,0,0,0,Mechanical
+E052,Drain Inspection Camera,Drainage,Monitoring,16,5,8,7,8,1,0,0,0,1,0,1,0,0,0,Electronic
+E053,Portable Mud Suction Unit,Drainage,Sludge Removal,11,5,7,7,8,1,0,0,0,1,0,1,0,0,0,Mechanical
+E054,Drain Clearing Robot,Drainage,Automation,38,8,10,6,9,1,0,0,0,1,0,1,0,0,0,Electronic
+E055,Portable Emergency Pump,Drainage,Emergency Flood Pumping,7,4,6,8,8,0,0,0,0,1,0,1,0,0,0,Mechanical
+E056,Flood Recovery Vehicle,Drainage,Disaster Recovery,24,7,10,6,8,1,0,0,0,1,0,1,0,0,0,Vehicle
+E057,Storm Drain Vacuum Cleaner,Drainage,Drain Cleaning,21,7,9,8,9,1,0,0,0,1,0,1,0,0,0,Vehicle
+E058,Portable Water Diversion Unit,Drainage,Flood Diversion,10,4,7,6,7,0,0,0,0,1,0,1,0,0,0,Mechanical
+E059,Chassis Mounted Water Tanker,Water Supply,Water Distribution,12,5,9,9,9,1,0,0,1,0,0,0,0,0,0,Vehicle
+E060,Water Tanker,Water Supply,Water Distribution,10,5,8,9,9,1,0,0,1,0,0,0,0,0,0,Vehicle
+E061,Pipeline Leakage Detector,Water Supply,Leak Detection,14,5,8,7,8,1,0,0,1,0,0,0,0,0,0,Electronic
+E062,Portable Chlorination Unit,Water Supply,Water Treatment,8,4,7,8,9,1,0,0,1,0,0,0,0,0,0,Mechanical
+E063,Water Pumping Station Motor,Water Supply,Pumping Infrastructure,18,6,10,9,9,1,0,0,1,0,0,0,0,0,0,Mechanical
+E064,Valve Testing Machine,Water Supply,Pipeline Maintenance,9,4,7,7,8,1,0,0,1,0,0,0,0,0,0,Mechanical
+E065,Pipe Pressure Monitoring Unit,Water Supply,Monitoring,11,4,8,7,8,1,0,0,1,0,0,0,0,0,0,Electronic
+E066,Water Quality Testing Kit,Water Supply,Quality Control,5,3,5,10,9,1,0,0,1,0,0,0,0,0,1,Electronic
+E067,Borewell Cleaning Machine,Water Supply,Borewell Maintenance,13,5,8,7,8,1,0,0,1,0,0,0,0,0,0,Mechanical
+E068,Portable Water Storage Tank,Water Supply,Storage,4,3,7,8,7,1,0,0,1,0,0,0,0,0,0,Static
+E069,Pipeline Repair Vehicle,Water Supply,Pipeline Repair,20,6,9,8,9,1,0,0,1,0,0,0,0,0,0,Vehicle
+E070,Portable Pump Controller,Water Supply,Pump Management,6,3,6,7,7,1,0,0,1,0,0,0,0,0,0,Electronic
+E071,Water Meter Calibration Unit,Water Supply,Monitoring,8,4,7,6,7,1,0,0,1,0,0,0,0,0,0,Electronic
+E072,Pipeline Inspection Camera,Water Supply,Inspection,15,5,8,7,8,1,0,0,1,0,0,0,0,0,0,Electronic
+E073,Reservoir Cleaning Machine,Water Supply,Reservoir Maintenance,14,5,8,7,8,1,0,0,1,0,0,0,0,0,0,Mechanical
+E074,Water Purification Mobile Unit,Water Supply,Treatment,25,7,9,7,9,1,0,0,1,0,0,1,0,0,1,Vehicle
+E075,Portable Pipeline Flusher,Water Supply,Cleaning,9,4,7,7,8,1,0,0,1,0,0,0,0,0,0,Mechanical
+E076,Hydraulic Pipe Cutter,Water Supply,Maintenance,12,5,8,6,7,1,0,0,1,0,0,0,0,1,0,Mechanical
+E077,Portable Water Pump Unit,Water Supply,Pumping,7,4,6,8,8,1,0,0,1,0,0,0,0,0,0,Mechanical
+E078,Emergency Water Supply Vehicle,Water Supply,Emergency Distribution,18,6,8,8,9,1,0,0,1,0,0,1,0,0,0,Vehicle
+E079,Smart Water Monitoring Sensor,Water Supply,Monitoring,11,4,7,6,8,1,0,0,1,0,0,0,0,0,0,Electronic
+E080,Water Pipeline Maintenance Kit,Water Supply,Maintenance,3,2,5,9,7,1,0,0,1,0,0,0,0,0,0,Manual
+E081,Hydraulic Excavator,Road Infra,Excavation,38,8,12,8,10,1,0,1,0,0,0,0,1,1,0,Vehicle
+E082,Mini Excavator,Road Infra,Excavation,22,7,10,8,9,1,0,1,0,0,0,0,1,1,0,Vehicle
+E083,Backhoe Loader,Road Infra,Earthwork,32,8,10,9,10,1,0,1,0,1,0,0,1,1,0,Vehicle
+E084,Wheel Loader,Road Infra,Material Handling,28,7,10,8,9,1,0,1,0,0,0,0,1,1,0,Vehicle
+E085,Track Mounted Excavator,Road Infra,Heavy Excavation,55,9,12,7,10,0,0,1,0,1,0,0,1,1,0,Vehicle
+E086,Road Roller,Road Infra,Road Construction,25,7,10,9,9,1,0,1,0,0,0,0,0,1,0,Vehicle
+E087,Vibratory Road Roller,Road Infra,Road Construction,30,7,10,8,9,1,0,1,0,0,0,0,0,1,0,Vehicle
+E088,Asphalt Paver Machine,Road Infra,Road Construction,48,8,12,7,10,1,0,1,0,0,0,0,0,1,0,Vehicle
+E089,Concrete Mixer Machine,Road Infra,Construction,9,5,8,8,8,0,0,1,0,0,0,0,1,1,0,Mechanical
+E090,Concrete Vibrator,Road Infra,Construction,3,3,6,7,7,0,0,1,0,0,0,0,1,1,0,Mechanical
+E091,Asphalt Cutter,Road Infra,Road Repair,7,4,7,8,8,1,0,1,0,0,0,0,0,1,0,Mechanical
+E092,Road Marking Machine,Road Infra,Road Marking,10,5,8,8,8,1,0,1,0,0,0,0,0,0,1,Mechanical
+E093,Concrete Cutting Machine,Road Infra,Road Repair,8,4,7,7,8,0,0,1,0,0,0,0,1,1,0,Mechanical
+E094,Crack Sealing Machine,Road Infra,Road Maintenance,11,5,8,8,8,1,0,1,0,0,0,0,0,1,0,Mechanical
+E095,Tipper Truck,Road Infra,Material Transport,20,6,9,9,9,1,0,1,0,1,0,0,1,1,0,Vehicle
+E096,Dump Truck,Road Infra,Heavy Transport,28,7,10,8,9,1,0,1,0,1,0,0,1,1,0,Vehicle
+E097,Tyre Mounted Mobile Crane,Road Infra,Lifting Equipment,42,8,12,7,9,0,0,1,0,0,0,0,1,1,0,Vehicle
+E098,Portable Concrete Pump,Road Infra,Construction Support,14,5,8,7,8,0,0,1,0,0,0,0,1,1,0,Mechanical
+E099,Hydraulic Breaker,Road Infra,Demolition,18,6,8,7,8,0,0,1,0,1,0,0,1,1,0,Mechanical
+E100,Road Surface Milling Machine,Road Infra,Road Repair,44,8,12,6,9,1,0,1,0,0,0,0,0,1,0,Vehicle
+E101,Portable Generator for Road Work,Road Infra,Power Support,5,4,6,8,7,0,0,1,0,0,0,1,0,1,0,Mechanical
+E102,Traffic Cone Deployment Unit,Road Infra,Traffic Management,4,2,5,8,7,1,0,1,0,0,0,0,0,0,1,Manual
+E103,Road Repair Patch Machine,Road Infra,Road Maintenance,17,5,8,8,8,1,0,1,0,0,0,0,0,1,0,Mechanical
+E104,Curb Stone Laying Machine,Road Infra,Civil Construction,13,5,8,6,7,0,0,1,0,0,0,0,1,1,0,Mechanical
+E105,Pavement Compactor,Road Infra,Compaction,16,5,8,8,8,1,0,1,0,0,0,0,0,1,0,Mechanical
+E106,Diesel Generator Set,Electrical,Power Backup,15,6,10,9,9,1,0,0,1,0,0,1,1,0,0,Mechanical
+E107,Portable Generator,Electrical,Portable Backup,6,4,7,8,8,0,0,0,1,0,0,1,0,0,0,Mechanical
+E108,Street Light Maintenance Lift,Electrical,Street Lighting,18,6,9,8,9,1,0,1,0,0,0,0,0,0,1,Vehicle
+E109,Transformer Maintenance Vehicle,Electrical,Power Infrastructure,24,7,10,7,9,1,0,0,1,0,0,0,1,0,0,Vehicle
+E110,Electric Cable Locator,Electrical,Cable Inspection,9,4,8,7,8,1,0,1,0,0,0,0,1,1,0,Electronic
+E111,Underground Fault Detector,Electrical,Fault Detection,11,4,8,7,8,1,0,1,0,0,0,0,1,1,0,Electronic
+E112,Portable Tower Light,Electrical,Emergency Lighting,7,4,7,7,8,0,0,0,0,0,0,1,0,0,0,Mechanical
+E113,Smart Street Light Controller,Electrical,Smart Infra,10,4,8,6,8,1,0,1,0,0,0,0,0,0,1,Electronic
+E114,Electrical Maintenance Van,Electrical,Repair Vehicle,16,5,9,8,8,1,0,0,1,0,0,0,1,0,0,Vehicle
+E115,Portable Solar Lighting Unit,Electrical,Solar Infrastructure,8,3,8,6,7,0,0,0,0,0,0,1,0,0,1,Electronic
+E116,Mobile Repair Van,Electrical,Utility Repair,14,5,8,8,8,1,0,1,1,0,0,0,1,0,0,Vehicle
+E117,Voltage Monitoring Device,Electrical,Monitoring,5,3,6,7,7,1,0,0,1,0,0,0,1,0,0,Electronic
+E118,Underground Cable Repair Kit,Electrical,Repair Equipment,6,3,7,7,7,1,0,1,0,0,0,0,1,1,0,Manual
+E119,Portable Battery Backup Unit,Electrical,Backup Power,4,3,5,8,7,0,0,0,1,0,0,1,0,0,0,Electronic
+E120,Smart Utility Monitoring Console,Electrical,Smart Monitoring,20,5,9,6,8,1,0,1,1,1,1,1,1,0,1,Electronic
+E121,Portable Toilet Unit,Sanitation,Public Toilets,3,3,6,9,8,1,0,0,1,0,0,0,0,0,1,Static
+E122,Mobile Toilet Van,Sanitation,Mobile Sanitation,12,5,8,8,8,1,0,0,1,0,0,1,0,0,1,Vehicle
+E123,Public Toilet Cleaning Machine,Sanitation,Toilet Maintenance,5,4,7,9,8,1,0,0,1,0,1,0,0,0,1,Mechanical
+E124,High Pressure Washer,Sanitation,Cleaning Equipment,4,3,6,10,8,1,0,1,1,1,0,0,0,0,1,Mechanical
+E125,Disinfection Sprayer Unit,Sanitation,Disinfection,2,2,5,9,8,1,0,0,1,0,0,1,0,0,1,Mechanical
+E126,Fogging Machine,Sanitation,Vector Control,3,3,6,8,8,1,0,0,0,1,0,1,0,0,1,Mechanical
+E127,Portable Cleaning Cart,Sanitation,Cleaning Support,1,2,4,9,6,1,0,1,1,0,0,0,0,0,1,Manual
+E128,Manual Cleaning Trolley,Sanitation,Cleaning Support,1,2,4,9,6,1,0,1,1,0,0,0,0,0,1,Manual
+E129,Portable Hand Wash Station,Sanitation,Public Hygiene,2,2,5,8,7,1,0,0,1,0,0,0,0,0,1,Static
+E130,Sanitary Waste Disposal Unit,Sanitation,Waste Disposal,5,3,7,8,8,1,1,0,0,0,0,0,0,0,1,Static
+E131,Portable Urinal Unit,Sanitation,Public Toilets,2,2,5,8,7,1,0,0,1,0,0,0,0,0,1,Static
+E132,Public Washroom Maintenance Vehicle,Sanitation,Maintenance Vehicle,10,5,8,7,8,1,0,0,1,0,1,0,0,0,1,Vehicle
+E133,Drain Disinfection Unit,Sanitation,Drain Sanitation,6,4,7,8,8,1,0,0,0,1,0,1,0,0,0,Mechanical
+E134,Portable Steam Cleaning Machine,Sanitation,Cleaning Equipment,4,3,6,7,7,1,0,0,1,0,0,0,0,0,1,Mechanical
+E135,Street Disinfection Vehicle,Sanitation,Public Hygiene,14,5,8,8,8,1,0,1,0,0,0,1,0,0,1,Vehicle
+E136,Biohazard Disposal Container,Sanitation,Hazardous Waste,6,4,8,6,8,1,1,0,0,0,0,0,1,0,0,Static
+E137,Portable Sanitation Kiosk,Sanitation,Civic Facility,8,4,8,7,7,1,0,0,1,0,0,0,0,0,1,Static
+E138,Municipal Cleaning Utility Vehicle,Sanitation,Cleaning Fleet,11,5,8,8,8,1,0,1,1,1,0,0,0,0,1,Vehicle
+E139,Fire Tender Vehicle,Emergency,Fire Response,65,9,12,8,10,1,0,1,1,0,0,1,1,0,1,Vehicle
+E140,Portable Rescue Boat,Emergency,Flood Rescue,18,6,10,6,9,0,0,0,0,0,0,1,0,0,1,Vehicle
+E141,Emergency Communication Van,Emergency,Communication,20,5,10,7,8,1,0,0,1,0,0,1,0,0,1,Vehicle
+E142,Portable Medical Response Unit,Emergency,Medical Support,15,5,8,7,9,1,0,0,1,0,0,1,0,0,1,Vehicle
+E143,Emergency Water Pump,Emergency,Flood Control,10,4,7,8,9,0,0,0,0,1,0,1,0,0,0,Mechanical
+E144,Debris Removal Loader,Emergency,Disaster Recovery,24,6,9,7,9,0,0,1,0,1,0,1,1,1,0,Vehicle
+E145,Portable Lighting Tower,Emergency,Emergency Lighting,7,4,7,7,8,0,0,0,0,0,0,1,0,0,0,Mechanical
+E146,Emergency Generator Unit,Emergency,Backup Power,12,5,8,8,8,1,0,0,1,0,0,1,0,0,0,Mechanical
+E147,Portable Emergency Shelter Unit,Emergency,Shelter Support,16,5,8,6,8,0,0,0,0,0,0,1,0,0,1,Static
+E148,Hydraulic Rescue Cutter,Emergency,Rescue Equipment,9,4,7,7,8,0,0,0,0,0,0,1,0,0,0,Mechanical
+E149,Emergency Evacuation Vehicle,Emergency,Evacuation,28,6,10,7,9,1,0,1,1,0,0,1,0,0,1,Vehicle
+E150,Portable Public Warning System,Emergency,Communication,6,3,6,7,7,1,0,0,0,0,0,1,0,0,1,Electronic
+E151,Flood Monitoring Sensor,Emergency,Flood Monitoring,8,3,7,7,8,0,0,0,0,1,0,1,0,0,0,Electronic
+E152,Emergency Drone Surveillance Unit,Emergency,Monitoring,22,5,8,6,8,1,0,1,0,1,0,1,0,0,1,Electronic
+E153,Portable Life Support Kit,Emergency,Medical Support,4,2,5,7,8,1,0,0,0,0,0,1,0,0,1,Manual
+E154,Disaster Recovery Crane,Emergency,Recovery Equipment,40,7,12,6,9,0,0,1,0,1,0,1,1,1,0,Vehicle
+E155,Emergency Ambulance Van,Emergency,Medical Transport,22,5,10,8,9,1,0,1,1,0,0,1,0,0,1,Vehicle
+E156,Portable Command Center Unit,Emergency,Operations,25,5,9,6,8,1,0,0,1,0,0,1,0,0,1,Electronic
+E157,Rapid Response Vehicle,Emergency,Emergency Fleet,18,5,8,8,8,1,0,1,1,0,0,1,0,0,1,Vehicle
+E158,Emergency Traffic Diversion Unit,Emergency,Traffic Control,6,3,6,7,7,1,0,1,0,0,0,1,0,0,1,Manual
+E159,Portable Search Light Unit,Emergency,Search Equipment,5,3,6,7,7,0,0,0,0,0,0,1,0,0,0,Mechanical
+E160,Disaster Supply Transport Vehicle,Emergency,Logistics,20,5,9,7,8,1,0,1,1,0,0,1,0,0,1,Vehicle
+E161,Sewage Treatment Plant Pump,Specialized,STP Operations,35,7,12,8,10,1,0,0,0,0,1,0,0,0,0,Mechanical
+E162,Portable Laboratory Testing Unit,Specialized,Testing Infrastructure,18,5,9,6,8,1,1,0,1,1,1,0,1,0,1,Vehicle
+E163,Air Quality Monitoring Station,Specialized,Environmental Monitoring,14,4,8,6,8,1,0,1,0,0,0,0,1,1,1,Electronic
+E164,Noise Pollution Monitoring Unit,Specialized,Environmental Monitoring,9,4,7,5,7,1,0,1,0,0,0,0,1,0,1,Electronic
+E165,Construction Debris Crusher,Specialized,Construction Waste,20,6,10,7,8,0,1,0,0,0,0,0,0,1,0,Mechanical
+E166,Smart Parking Monitoring Unit,Specialized,Urban Smart Infra,12,4,8,6,7,1,0,1,0,0,0,0,0,0,1,Electronic
+E167,Municipal Survey Drone,Specialized,Survey Infrastructure,16,4,8,6,8,1,0,1,1,1,1,1,1,1,1,Electronic
+E168,GIS Mapping Workstation,Specialized,Planning Infrastructure,18,4,9,5,8,1,0,1,1,1,1,0,1,1,1,Electronic
+E169,Portable Air Compressor,Specialized,Utility Support,7,3,7,7,7,0,0,1,0,0,0,0,1,1,0,Mechanical
+E170,Industrial Pollution Response Unit,Specialized,Industrial Monitoring,24,5,9,5,8,0,0,0,0,0,0,0,1,0,0,Vehicle
+E171,Smart Civic Monitoring Console,Specialized,Urban Monitoring,22,4,8,5,8,1,0,1,1,1,1,1,0,0,1,Electronic
+E172,Portable Municipal Command Vehicle,Specialized,Administration Support,26,5,9,6,8,1,0,1,1,1,1,1,0,0,1,Vehicle
+E173,Integrated Utility Maintenance Vehicle,Specialized,Multi Utility Support,30,6,10,8,9,1,1,1,1,1,1,1,1,1,1,Vehicle

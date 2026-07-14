@@ -1,0 +1,9 @@
+municipality,population,area_km2,waste_tons_day,road_length_km,wards,garbage_trucks,road_sweepers,water_tankers,drain_cleaners
+Kolkata,4500000,206,5200,1800,144,120,18,40,22
+Siliguri,700000,41,450,250,47,15,2,6,4
+Durgapur,580000,155,380,320,43,12,1,5,3
+Howrah,1100000,147,950,500,66,28,4,10,7
+Asansol,1200000,127,1000,420,106,30,4,12,8
+Kharagpur,300000,80,180,150,35,7,0,3,2
+Haldia,200000,90,140,120,29,5,0,2,1
+Malda,250000,62,170,110,25,6,0,2,2

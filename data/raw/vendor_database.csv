@@ -1,0 +1,520 @@
+vendor_id,vendor_name,equipment_id,equipment_name,specification,quoted_price_lakhs,quality_score,delivery_days,warranty_years,vendor_rating,gem_available
+V001,Mahindra Truck,E001,Garbage Compactor Truck,14 Cu.m BS-VI Hydraulic Compactor,26.25,96,25,5,4.6,No
+V002,Ashok Leyland,E001,Garbage Compactor Truck,18 Cu.m Heavy Duty Compactor,26.82,92,30,3,4.6,Yes
+V003,BharatBenz,E001,Garbage Compactor Truck,18 Cu.m Heavy Duty Compactor,26.68,95,13,4,4.7,Yes
+V004,BharatBenz,E002,Mini Garbage Tipper,3 Ton Municipal Tipper,12.32,97,23,4,4.7,Yes
+V005,Mahindra Truck,E002,Mini Garbage Tipper,2.8 Ton Diesel Tipper,11.46,90,26,4,4.5,No
+V006,Tata Motors,E002,Mini Garbage Tipper,2.5 Ton Hydraulic Tipper,12.21,90,29,5,4.6,Yes
+V007,Mahindra Truck,E003,Refuse Collector Vehicle,12 Cu.m Refuse Collector,17.37,94,29,3,4.6,Yes
+V008,BharatBenz,E003,Refuse Collector Vehicle,14 Cu.m Waste Collector,18.73,94,24,4,4.8,Yes
+V009,Tata Motors,E003,Refuse Collector Vehicle,16 Cu.m Automatic Refuse Vehicle,19.03,94,14,3,4.7,Yes
+V010,ACE,E004,Portable Waste Compactor,10 Ton Portable Waste Compactor,9.55,96,11,5,4.8,No
+V011,KSB Pumps,E004,Portable Waste Compactor,10 Ton Portable Waste Compactor,9.22,95,27,3,4.8,Yes
+V012,JCB India,E004,Portable Waste Compactor,10 Ton Portable Waste Compactor,9.69,92,14,3,4.7,Yes
+V013,Ashok Leyland,E005,Mechanical Road Sweeper,6 Cu.m Dust Control Sweeper,18.89,96,16,5,4.6,No
+V014,Force Motors,E005,Mechanical Road Sweeper,6 Cu.m Dust Control Sweeper,17.61,90,12,4,4.9,Yes
+V015,Tata Motors,E005,Mechanical Road Sweeper,High Efficiency Road Sweeper,18.96,90,17,3,4.5,Yes
+V016,Mahindra Truck,E006,Vacuum Road Sweeper,7 Cu.m Heavy Vacuum Sweeper,23.08,98,20,3,4.7,Yes
+V017,Tata Motors,E006,Vacuum Road Sweeper,High Suction Road Sweeper,22.99,98,11,4,4.7,Yes
+V018,Force Motors,E006,Vacuum Road Sweeper,7 Cu.m Heavy Vacuum Sweeper,21.46,95,19,5,4.5,Yes
+V019,Mahindra Truck,E007,Dumper Placer Vehicle,8 Cu.m Hydraulic Dumper,15.51,91,24,3,4.7,Yes
+V020,BharatBenz,E007,Dumper Placer Vehicle,Heavy Duty Dumper Placer,16.06,92,12,3,4.6,Yes
+V021,Ashok Leyland,E007,Dumper Placer Vehicle,6 Cu.m Dumper Placer,14.97,92,29,3,4.8,Yes
+V022,Prince Pipes,E008,Waste Collection Container,UV Resistant Waste Bin,3.81,95,30,5,4.8,Yes
+V023,Supreme,E008,Waste Collection Container,UV Resistant Waste Bin,4.08,96,15,5,4.6,Yes
+V024,Sintex,E008,Waste Collection Container,1000 L HDPE Container,3.92,90,28,5,4.8,Yes
+V025,KSB Pumps,E009,Hydraulic Waste Loader,Heavy Duty Loader,15.0,92,19,4,4.5,Yes
+V026,JCB India,E009,Hydraulic Waste Loader,2 Cu.m Loader,13.89,95,14,4,4.7,Yes
+V027,ACE,E009,Hydraulic Waste Loader,2 Cu.m Loader,13.48,98,10,5,4.7,Yes
+V028,Nilkamal,E010,Transfer Station Container,5000 L Steel Container,7.29,92,30,5,4.5,No
+V029,Supreme,E010,Transfer Station Container,5000 L Steel Container,7.07,98,17,4,4.6,Yes
+V030,Prince Pipes,E010,Transfer Station Container,5500 L Reinforced Container,7.17,96,14,4,4.6,Yes
+V031,Kirloskar,E011,Plastic Baler Machine,12 Ton Hydraulic Baler,10.14,93,27,4,4.8,No
+V032,Crompton,E011,Plastic Baler Machine,10 Ton Plastic Baler,10.08,98,26,5,4.8,No
+V033,KSB Pumps,E011,Plastic Baler Machine,12 Ton Hydraulic Baler,9.68,98,28,4,4.7,Yes
+V034,Crompton,E012,Organic Waste Shredder,Industrial Organic Shredder,8.04,94,22,4,4.9,No
+V035,CASE India,E012,Organic Waste Shredder,Industrial Organic Shredder,7.9,93,14,4,4.5,Yes
+V036,KSB Pumps,E012,Organic Waste Shredder,500 Kg/hr Organic Shredder,7.89,91,30,3,4.8,Yes
+V037,KSB Pumps,E013,Bio Waste Composting Machine,500 Kg Compost Machine,13.39,94,25,5,4.6,Yes
+V038,BEML,E013,Bio Waste Composting Machine,Automatic Composting Unit,13.85,90,22,4,4.4,Yes
+V039,Kirloskar,E013,Bio Waste Composting Machine,500 Kg Compost Machine,12.47,92,23,3,4.5,No
+V040,Supreme,E014,Portable Garbage Bin Set,240 L HDPE Bin,2.15,98,23,3,4.6,Yes
+V041,Nilkamal,E014,Portable Garbage Bin Set,240 L UV Resistant Bin,1.91,98,14,4,4.8,No
+V042,Sintex,E014,Portable Garbage Bin Set,EN840 Bin Set,2.11,97,13,4,4.5,Yes
+V043,Tata Motors,E015,Skid Steer Loader,70 HP Compact Loader,15.49,90,25,3,4.5,Yes
+V044,Mahindra Truck,E015,Skid Steer Loader,Premium Skid Loader,15.29,97,25,4,4.4,No
+V045,BharatBenz,E015,Skid Steer Loader,Premium Skid Loader,16.89,96,14,3,4.6,Yes
+V046,BEML,E016,Waste Conveyor Belt Unit,Industrial Sorting Conveyor,11.2,98,18,3,4.4,No
+V047,Crompton,E016,Waste Conveyor Belt Unit,10 m Conveyor,11.18,94,13,5,4.6,Yes
+V048,KSB Pumps,E016,Waste Conveyor Belt Unit,12 m Conveyor,10.98,94,16,3,4.7,Yes
+V049,BEML,E017,Industrial Waste Crusher,25 HP Crusher,21.12,90,18,5,4.5,Yes
+V050,CASE India,E017,Industrial Waste Crusher,25 HP Crusher,21.41,94,15,4,4.8,Yes
+V051,KSB Pumps,E017,Industrial Waste Crusher,25 HP Crusher,19.62,97,23,4,4.5,No
+V052,Supreme,E018,Dumpster Container,1200 L Steel Dumpster,5.16,96,23,3,4.8,No
+V053,Nilkamal,E018,Dumpster Container,Reinforced Dumpster,5.0,97,27,5,4.6,No
+V054,Sintex,E018,Dumpster Container,Reinforced Dumpster,4.87,96,20,3,4.6,Yes
+V055,Tata Motors,E019,Front Loader Waste Vehicle,16 Cu.m Waste Loader,18.99,97,28,4,4.6,No
+V056,BharatBenz,E019,Front Loader Waste Vehicle,16 Cu.m Waste Loader,19.2,98,22,3,4.7,Yes
+V057,Force Motors,E019,Front Loader Waste Vehicle,14 Cu.m Front Loader,19.01,93,22,4,4.6,Yes
+V058,JCB India,E020,Waste Segregation Conveyor,Industrial Conveyor Line,11.98,91,10,4,4.6,Yes
+V059,CASE India,E020,Waste Segregation Conveyor,Industrial Conveyor Line,11.87,91,20,4,4.8,Yes
+V060,BEML,E020,Waste Segregation Conveyor,12 m Conveyor,12.09,94,22,5,4.5,Yes
+V061,ACE,E021,Leaf Collection Vacuum Unit,Municipal Leaf Collection Machine,7.44,98,22,5,4.8,Yes
+V062,Kirloskar,E021,Leaf Collection Vacuum Unit,Industrial Leaf Vacuum,6.88,94,16,4,4.5,Yes
+V063,BEML,E021,Leaf Collection Vacuum Unit,Municipal Leaf Collection Machine,7.22,95,15,3,4.8,Yes
+V064,ACE,E022,Portable Bin Lifter,240 L Hydraulic Bin Lifter,5.94,94,25,4,4.9,Yes
+V065,KSB Pumps,E022,Portable Bin Lifter,Automatic Bin Lifting Machine,6.13,94,24,5,4.6,Yes
+V066,Kirloskar,E022,Portable Bin Lifter,Automatic Bin Lifting Machine,5.73,98,13,5,4.6,No
+V067,Prince Pipes,E023,Waste Hopper Unit,5 Cu.m Waste Hopper,3.91,96,17,4,4.8,Yes
+V068,Supreme,E023,Waste Hopper Unit,5 Cu.m Waste Hopper,4.11,92,28,3,4.7,Yes
+V069,Sintex,E023,Waste Hopper Unit,Heavy Duty Waste Hopper,4.07,90,21,4,4.6,Yes
+V070,Tata Motors,E024,Biomedical Waste Carrier,Bio Waste Transport Vehicle,15.08,91,16,5,4.8,Yes
+V071,BharatBenz,E024,Biomedical Waste Carrier,Medical Waste Carrier,14.62,96,21,3,4.6,No
+V072,Ashok Leyland,E024,Biomedical Waste Carrier,Bio Waste Transport Vehicle,14.52,93,13,5,4.5,Yes
+V073,ACE,E025,Municipal Waste Crane,Municipal Loading Crane,27.86,92,29,5,4.4,Yes
+V074,Crompton,E025,Municipal Waste Crane,Truck Mounted Waste Crane,29.11,93,18,3,4.8,Yes
+V075,KSB Pumps,E025,Municipal Waste Crane,Truck Mounted Waste Crane,29.9,95,28,4,4.6,Yes
+V076,Nilkamal,E026,Street Cleaning Cart,Municipal Utility Cart,0.99,95,26,4,4.8,Yes
+V077,Safari Industries,E026,Street Cleaning Cart,Municipal Utility Cart,1.03,96,22,3,4.6,No
+V078,Supreme,E026,Street Cleaning Cart,Heavy Duty Street Cart,1.04,92,23,5,4.5,Yes
+V079,Tata Motors,E027,Waste Transfer Trailer,15 Ton Waste Trailer,16.4,91,17,5,4.6,Yes
+V080,Force Motors,E027,Waste Transfer Trailer,Heavy Duty Transfer Trailer,16.84,91,13,4,4.8,Yes
+V081,BharatBenz,E027,Waste Transfer Trailer,Heavy Duty Transfer Trailer,17.51,92,17,4,4.8,Yes
+V082,BharatBenz,E028,Mobile Waste Collection Unit,Municipal Collection Unit,14.84,91,15,3,4.5,Yes
+V083,Ashok Leyland,E028,Mobile Waste Collection Unit,Mini Waste Collection Van,14.48,94,10,3,4.5,Yes
+V084,Tata Motors,E028,Mobile Waste Collection Unit,Mini Waste Collection Van,14.31,97,28,3,4.6,No
+V085,Mahindra Truck,E029,Truck Mounted Suction Cum Jetting Machine,BS-VI Suction Cum Jetting Machine,42.5,97,30,4,4.5,Yes
+V086,Force Motors,E029,Truck Mounted Suction Cum Jetting Machine,BS-VI Suction Cum Jetting Machine,42.76,98,25,5,4.7,No
+V087,Tata Motors,E029,Truck Mounted Suction Cum Jetting Machine,5000 L Combined Jetting Vehicle,44.1,94,15,5,4.4,No
+V088,BEML,E030,Sewer Jetting Machine,300 Bar Sewer Jetting Machine,24.1,95,24,5,4.4,Yes
+V089,Kirloskar,E030,Sewer Jetting Machine,250 Bar High Pressure Jetter,23.56,96,24,4,4.8,Yes
+V090,Crompton,E030,Sewer Jetting Machine,Truck Mounted Jetting Unit,24.69,98,22,3,4.9,Yes
+V091,ACE,E031,High Pressure Sewer Cleaner,Hydraulic Sewer Cleaning Unit,19.56,90,28,3,4.9,Yes
+V092,Crompton,E031,High Pressure Sewer Cleaner,300 Bar Sewer Cleaner,19.33,93,29,5,4.4,Yes
+V093,Kirloskar,E031,High Pressure Sewer Cleaner,300 Bar Sewer Cleaner,19.05,95,16,4,4.8,Yes
+V094,BEML,E032,Root Cutting System for Sewer Line,Hydraulic Root Cutter,14.8,97,20,3,4.6,Yes
+V095,ACE,E032,Root Cutting System for Sewer Line,Automatic Sewer Root Cutter,13.88,93,15,3,4.8,Yes
+V096,Kirloskar,E032,Root Cutting System for Sewer Line,Heavy Duty Root Removal System,13.43,94,12,4,4.8,Yes
+V097,Siemens,E033,Sewer Inspection Camera,150 m CCTV Inspection Camera,18.92,94,28,5,4.5,Yes
+V098,Schneider Electric,E033,Sewer Inspection Camera,HD Sewer Inspection Robot,18.85,96,14,5,4.8,Yes
+V099,Honeywell,E033,Sewer Inspection Camera,HD Sewer Inspection Robot,17.67,95,23,3,4.5,Yes
+V100,ABB,E034,Portable Pipeline CCTV Unit,Portable HD CCTV Inspection Unit,22.43,91,16,5,4.6,Yes
+V101,Schneider Electric,E034,Portable Pipeline CCTV Unit,Digital Inspection System,21.25,96,10,4,4.5,Yes
+V102,Bosch,E034,Portable Pipeline CCTV Unit,Digital Inspection System,21.79,90,30,4,4.5,No
+V103,Ashok Leyland,E035,Vacuum Sludge Tanker,6000 L Vacuum Tanker,29.5,92,23,4,4.7,Yes
+V104,Mahindra Truck,E035,Vacuum Sludge Tanker,Heavy Duty Vacuum Tanker,29.12,97,15,3,4.8,Yes
+V105,Tata Motors,E035,Vacuum Sludge Tanker,6000 L Vacuum Tanker,28.68,92,12,5,4.7,Yes
+V106,Kirloskar,E036,Manhole Desilting Machine,Heavy Duty Manhole Cleaner,15.91,94,18,5,4.7,Yes
+V107,ACE,E036,Manhole Desilting Machine,Heavy Duty Manhole Cleaner,16.51,90,28,5,4.8,No
+V108,CASE India,E036,Manhole Desilting Machine,Hydraulic Desilting Machine,15.69,90,21,3,4.5,No
+V109,Schneider Electric,E037,Sewer Cleaning Robot,Remote Operated Sewer Robot,44.44,90,19,4,4.7,No
+V110,Honeywell,E037,Sewer Cleaning Robot,Remote Operated Sewer Robot,47.55,93,16,3,4.9,No
+V111,Siemens,E037,Sewer Cleaning Robot,AI Enabled Sewer Robot,47.62,95,29,4,4.7,No
+V112,ACE,E038,Portable Sludge Pump,Portable Dewatering Pump,7.67,92,26,5,4.4,Yes
+V113,JCB India,E038,Portable Sludge Pump,Diesel Sludge Pump,7.87,93,20,3,4.5,Yes
+V114,CASE India,E038,Portable Sludge Pump,20 HP Sludge Pump,7.9,90,21,4,4.6,No
+V115,ACE,E039,Drain Rodding Machine,Hydraulic Drain Rodder,8.73,96,23,4,4.7,Yes
+V116,CASE India,E039,Drain Rodding Machine,Industrial Drain Cleaning Rodder,9.35,96,28,4,4.8,Yes
+V117,Kirloskar,E039,Drain Rodding Machine,Mechanical Drain Rodder,9.27,90,10,5,4.7,Yes
+V118,ABB,E040,Underground Pipe Locator,Digital Pipe Locator,12.53,93,24,3,4.4,Yes
+V119,Honeywell,E040,Underground Pipe Locator,Digital Pipe Locator,11.84,92,20,4,4.7,Yes
+V120,L&T,E040,Underground Pipe Locator,Underground Utility Locator,12.47,91,12,4,4.6,No
+V121,ACE,E041,Drain Cleaning Machine,Hydraulic Drain Cleaner,16.07,92,11,4,4.7,Yes
+V122,JCB India,E041,Drain Cleaning Machine,Portable Drain Cleaning Machine,14.6,90,23,3,4.7,Yes
+V123,Kirloskar,E041,Drain Cleaning Machine,Industrial Drain Cleaner,15.49,96,21,5,4.8,Yes
+V124,KSB Pumps,E042,Portable Dewatering Pump,Flood Control Pump,9.36,90,19,5,4.5,No
+V125,ACE,E042,Portable Dewatering Pump,Flood Control Pump,9.21,94,11,3,4.8,Yes
+V126,BEML,E042,Portable Dewatering Pump,30 HP Dewatering Pump,9.16,91,19,3,4.7,No
+V127,CASE India,E043,High Capacity Pump Set,75 HP Flood Pump,18.19,95,20,4,4.5,Yes
+V128,ACE,E043,High Capacity Pump Set,75 HP Flood Pump,18.43,96,21,5,4.9,Yes
+V129,JCB India,E043,High Capacity Pump Set,75 HP Flood Pump,17.36,90,15,5,4.4,Yes
+V130,ACE,E044,Storm Water Pump,Heavy Duty Flood Pump,21.86,97,27,5,4.7,No
+V131,KSB Pumps,E044,Storm Water Pump,Storm Water Pump 100 HP,22.32,95,15,5,4.7,Yes
+V132,JCB India,E044,Storm Water Pump,Storm Water Pump 100 HP,21.98,98,13,3,4.9,Yes
+V133,CASE India,E045,Submersible Pump Unit,15 HP Submersible Pump,5.78,97,11,4,4.6,Yes
+V134,ACE,E045,Submersible Pump Unit,30 HP Drainage Pump,5.95,97,25,5,4.6,Yes
+V135,Crompton,E045,Submersible Pump Unit,Heavy Duty Pump Unit,5.8,94,15,3,4.7,No
+V136,BEML,E046,Canal Desilting Machine,Heavy Duty Desilting Unit,26.71,98,25,3,4.5,Yes
+V137,Crompton,E046,Canal Desilting Machine,Floating Desilting Machine,30.17,91,15,3,4.9,No
+V138,KSB Pumps,E046,Canal Desilting Machine,Hydraulic Canal Desilter,28.86,95,10,3,4.7,Yes
+V139,Sintex,E047,Portable Flood Barrier Unit,Rapid Flood Barrier,11.99,98,11,3,4.7,No
+V140,Nilkamal,E047,Portable Flood Barrier Unit,Inflatable Flood Barrier,12.67,97,29,4,4.4,Yes
+V141,Prince Pipes,E047,Portable Flood Barrier Unit,Rapid Flood Barrier,12.15,91,21,4,4.7,No
+V142,Mahindra Truck,E048,Emergency Drainage Vehicle,Emergency Pump Vehicle,21.26,92,29,5,4.5,No
+V143,Ashok Leyland,E048,Emergency Drainage Vehicle,Drainage Response Vehicle,19.31,95,28,4,4.7,Yes
+V144,Tata Motors,E048,Emergency Drainage Vehicle,Drainage Response Vehicle,21.54,92,21,3,4.6,Yes
+V145,Kirloskar,E049,Drain Excavation Unit,Hydraulic Drain Excavator,31.5,98,11,4,4.4,Yes
+V146,ACE,E049,Drain Excavation Unit,Hydraulic Drain Excavator,31.66,93,10,4,4.6,No
+V147,BEML,E049,Drain Excavation Unit,Mini Excavation Unit,31.71,97,23,5,4.7,Yes
+V148,Crompton,E050,Portable Sandbag Filling Machine,Emergency Sandbag Machine,8.36,92,30,4,4.7,Yes
+V149,BEML,E050,Portable Sandbag Filling Machine,Automatic Sandbag Filler,7.95,97,12,3,4.8,Yes
+V150,KSB Pumps,E050,Portable Sandbag Filling Machine,Emergency Sandbag Machine,8.18,90,24,3,4.6,Yes
+V151,ACE,E051,Drain Jetting Machine,Drain Cleaning Jet Machine,17.15,97,24,4,4.5,No
+V152,BEML,E051,Drain Jetting Machine,Drain Cleaning Jet Machine,17.4,97,21,3,4.8,Yes
+V153,Kirloskar,E051,Drain Jetting Machine,Drain Cleaning Jet Machine,17.72,97,18,5,4.8,Yes
+V154,ABB,E052,Drain Inspection Camera,HD Drain Inspection Camera,15.83,98,19,4,4.9,Yes
+V155,Bosch,E052,Drain Inspection Camera,150 m Inspection Camera,15.8,94,18,3,4.8,No
+V156,L&T,E052,Drain Inspection Camera,HD Drain Inspection Camera,16.56,94,26,3,4.4,Yes
+V157,Crompton,E053,Portable Mud Suction Unit,Heavy Duty Sludge Suction Machine,11.86,98,13,3,4.6,Yes
+V158,ACE,E053,Portable Mud Suction Unit,Vacuum Mud Removal Unit,11.19,96,14,4,4.7,No
+V159,CASE India,E053,Portable Mud Suction Unit,Heavy Duty Sludge Suction Machine,11.36,98,23,3,4.5,No
+V160,ABB,E054,Drain Clearing Robot,Autonomous Drain Robot,40.56,91,30,3,4.7,Yes
+V161,Honeywell,E054,Drain Clearing Robot,Crawler Drain Robot,37.67,92,17,4,4.8,No
+V162,L&T,E054,Drain Clearing Robot,AI Drain Cleaning Robot,36.45,92,28,5,4.8,Yes
+V163,ACE,E055,Portable Emergency Pump,15 HP Emergency Pump,6.86,98,14,5,4.8,No
+V164,KSB Pumps,E055,Portable Emergency Pump,Diesel Emergency Pump,7.5,98,11,4,4.8,Yes
+V165,Kirloskar,E055,Portable Emergency Pump,15 HP Emergency Pump,6.98,98,14,4,4.6,Yes
+V166,Force Motors,E056,Flood Recovery Vehicle,Emergency Recovery Truck,25.68,95,29,4,4.5,Yes
+V167,Mahindra Truck,E056,Flood Recovery Vehicle,Flood Recovery Utility Vehicle,22.95,90,21,4,4.4,Yes
+V168,BharatBenz,E056,Flood Recovery Vehicle,Water Removal Vehicle,24.59,97,29,5,4.7,No
+V169,Force Motors,E057,Storm Drain Vacuum Cleaner,Industrial Drain Vacuum Unit,20.05,96,19,3,4.5,Yes
+V170,Ashok Leyland,E057,Storm Drain Vacuum Cleaner,High Vacuum Drain Cleaner,22.54,98,20,5,4.4,No
+V171,Tata Motors,E057,Storm Drain Vacuum Cleaner,Industrial Drain Vacuum Unit,22.4,91,18,4,4.6,Yes
+V172,ACE,E058,Portable Water Diversion Unit,Portable Water Diversion System,9.63,90,23,4,4.6,Yes
+V173,Kirloskar,E058,Portable Water Diversion Unit,Emergency Flow Diversion Kit,10.61,94,20,3,4.9,No
+V174,JCB India,E058,Portable Water Diversion Unit,Emergency Flow Diversion Kit,10.26,92,30,3,4.7,No
+V175,BharatBenz,E059,Chassis Mounted Water Tanker,Heavy Duty Water Supply Vehicle,11.8,96,20,4,4.6,Yes
+V176,Tata Motors,E059,Chassis Mounted Water Tanker,8000 L BS-VI Water Tanker,12.2,97,25,4,4.6,Yes
+V177,Force Motors,E059,Chassis Mounted Water Tanker,Heavy Duty Water Supply Vehicle,12.5,91,30,4,4.8,Yes
+V178,Force Motors,E060,Water Tanker,6000 L Stainless Steel Tanker,9.96,96,25,3,4.6,No
+V179,BharatBenz,E060,Water Tanker,6000 L Stainless Steel Tanker,9.89,97,25,5,4.4,Yes
+V180,Tata Motors,E060,Water Tanker,10000 L Drinking Water Tanker,10.42,90,14,3,4.6,Yes
+V181,Siemens,E061,Pipeline Leakage Detector,Smart Leak Detection Device,13.65,97,15,4,4.8,No
+V182,ABB,E061,Pipeline Leakage Detector,Digital Ultrasonic Leakage Detector,14.07,90,21,4,4.5,Yes
+V183,L&T,E061,Pipeline Leakage Detector,Smart Leak Detection Device,14.97,98,19,5,4.9,Yes
+V184,ACE,E062,Portable Chlorination Unit,1000 L/hr Chlorination System,8.2,95,17,3,4.8,Yes
+V185,Crompton,E062,Portable Chlorination Unit,1000 L/hr Chlorination System,8.54,98,15,3,4.9,Yes
+V186,BEML,E062,Portable Chlorination Unit,Municipal Water Chlorinator,7.71,98,10,5,4.7,No
+V187,JCB India,E063,Water Pumping Station Motor,75 HP Pump Motor,18.89,96,15,3,4.6,Yes
+V188,Kirloskar,E063,Water Pumping Station Motor,100 HP Pump Motor,18.2,93,15,4,4.8,No
+V189,KSB Pumps,E063,Water Pumping Station Motor,75 HP Pump Motor,17.28,95,10,4,4.6,Yes
+V190,JCB India,E064,Valve Testing Machine,Automatic Valve Testing Unit,9.68,96,30,5,4.7,Yes
+V191,Kirloskar,E064,Valve Testing Machine,Hydraulic Valve Tester,9.26,92,13,4,4.6,Yes
+V192,BEML,E064,Valve Testing Machine,Pressure Valve Calibration Machine,8.99,90,23,5,4.7,Yes
+V193,Siemens,E065,Pipe Pressure Monitoring Unit,IoT Pipeline Pressure Monitor,10.8,95,26,5,4.5,No
+V194,Honeywell,E065,Pipe Pressure Monitoring Unit,SCADA Pressure Sensor,11.66,96,12,4,4.8,Yes
+V195,Schneider Electric,E065,Pipe Pressure Monitoring Unit,Digital Pressure Monitoring System,10.69,91,18,4,4.6,Yes
+V196,ABB,E066,Water Quality Testing Kit,Portable Water Testing Kit,4.93,94,25,3,4.4,No
+V197,Siemens,E066,Water Quality Testing Kit,Digital Water Quality Lab Kit,5.23,90,27,4,4.4,No
+V198,Schneider Electric,E066,Water Quality Testing Kit,Digital Water Quality Lab Kit,4.76,94,18,3,4.5,Yes
+V199,CASE India,E067,Borewell Cleaning Machine,Rotary Borewell Cleaning Machine,13.35,95,10,3,4.6,No
+V200,Crompton,E067,Borewell Cleaning Machine,Rotary Borewell Cleaning Machine,13.81,96,12,5,4.9,Yes
+V201,JCB India,E067,Borewell Cleaning Machine,Deep Borewell Cleaning Rig,13.34,98,24,3,4.6,Yes
+V202,Prince Pipes,E068,Portable Water Storage Tank,5000 L HDPE Water Tank,3.92,90,10,4,4.9,Yes
+V203,Nilkamal,E068,Portable Water Storage Tank,10000 L Emergency Storage Tank,3.91,90,26,5,4.5,Yes
+V204,Sintex,E068,Portable Water Storage Tank,Collapsible Water Storage Tank,3.85,92,11,5,4.8,Yes
+V205,Mahindra Truck,E069,Pipeline Repair Vehicle,Mobile Pipeline Repair Vehicle,19.04,90,22,5,4.4,Yes
+V206,BharatBenz,E069,Pipeline Repair Vehicle,Hydraulic Repair Van,19.68,95,17,3,4.7,No
+V207,Ashok Leyland,E069,Pipeline Repair Vehicle,Emergency Repair Vehicle,19.76,92,24,3,4.4,Yes
+V208,L&T,E070,Portable Pump Controller,Digital Pump Controller,6.33,96,24,3,4.8,No
+V209,Siemens,E070,Portable Pump Controller,Digital Pump Controller,6.13,96,14,4,4.5,No
+V210,Schneider Electric,E070,Portable Pump Controller,Automatic Pump Control Panel,5.97,96,21,5,4.4,Yes
+V211,Schneider Electric,E071,Water Meter Calibration Unit,Automatic Calibration Unit,7.8,94,25,3,4.7,Yes
+V212,Bosch,E071,Water Meter Calibration Unit,Class 0.2 Calibration System,8.43,90,20,4,4.6,Yes
+V213,Honeywell,E071,Water Meter Calibration Unit,Class 0.2 Calibration System,7.66,91,27,4,4.8,Yes
+V214,Bosch,E072,Pipeline Inspection Camera,Self Propelled Pipeline Camera,14.26,98,19,5,4.6,Yes
+V215,Honeywell,E072,Pipeline Inspection Camera,150 m HD Inspection Camera,16.13,92,24,4,4.7,Yes
+V216,L&T,E072,Pipeline Inspection Camera,Self Propelled Pipeline Camera,15.88,91,15,3,4.5,Yes
+V217,CASE India,E073,Reservoir Cleaning Machine,Floating Reservoir Cleaner,13.73,94,17,4,4.8,Yes
+V218,ACE,E073,Reservoir Cleaning Machine,Industrial Reservoir Cleaner,13.6,94,24,5,4.7,No
+V219,JCB India,E073,Reservoir Cleaning Machine,Reservoir Cleaning Robot,14.86,95,18,4,4.7,Yes
+V220,Ashok Leyland,E074,Water Purification Mobile Unit,Portable Water Purification Van,26.17,96,11,3,4.7,Yes
+V221,Mahindra Truck,E074,Water Purification Mobile Unit,Portable Water Purification Van,25.73,95,30,5,4.6,Yes
+V222,Tata Motors,E074,Water Purification Mobile Unit,Emergency Water Treatment Unit,24.63,96,10,5,4.4,Yes
+V223,KSB Pumps,E075,Portable Pipeline Flusher,Portable Pipe Cleaning Unit,9.38,96,23,3,4.6,Yes
+V224,JCB India,E075,Portable Pipeline Flusher,Portable Pipe Cleaning Unit,8.83,98,14,3,4.8,Yes
+V225,CASE India,E075,Portable Pipeline Flusher,Hydraulic Pipeline Flushing System,8.75,96,15,3,4.5,No
+V226,JCB India,E076,Hydraulic Pipe Cutter,Hydraulic Pipe Cutting Machine,11.49,90,12,5,4.8,Yes
+V227,KSB Pumps,E076,Hydraulic Pipe Cutter,Hydraulic Pipe Cutting Machine,11.75,90,10,3,4.4,No
+V228,BEML,E076,Hydraulic Pipe Cutter,Hydraulic Pipe Cutting Machine,12.74,96,20,5,4.9,Yes
+V229,Crompton,E077,Portable Water Pump Unit,Portable Centrifugal Pump,7.28,97,19,4,4.9,Yes
+V230,KSB Pumps,E077,Portable Water Pump Unit,Diesel Water Pump,7.09,90,27,4,4.4,Yes
+V231,ACE,E077,Portable Water Pump Unit,10 HP Portable Water Pump,7.26,91,21,5,4.7,Yes
+V232,Mahindra Truck,E078,Emergency Water Supply Vehicle,Emergency Water Tanker,18.1,94,22,4,4.5,Yes
+V233,Force Motors,E078,Emergency Water Supply Vehicle,Mobile Water Supply Vehicle,18.69,98,29,3,4.7,Yes
+V234,BharatBenz,E078,Emergency Water Supply Vehicle,Mobile Water Supply Vehicle,17.18,98,15,3,4.9,Yes
+V235,L&T,E079,Smart Water Monitoring Sensor,Digital Water Pressure Sensor,11.23,97,28,3,4.5,Yes
+V236,Schneider Electric,E079,Smart Water Monitoring Sensor,Smart Water Quality Sensor,11.34,91,15,3,4.7,No
+V237,Bosch,E079,Smart Water Monitoring Sensor,Smart Water Quality Sensor,10.93,97,21,5,4.5,Yes
+V238,Nilkamal,E080,Water Pipeline Maintenance Kit,Emergency Pipeline Service Kit,3.09,91,10,5,4.4,Yes
+V239,Supreme,E080,Water Pipeline Maintenance Kit,Emergency Pipeline Service Kit,2.94,98,15,5,4.7,Yes
+V240,Safari Industries,E080,Water Pipeline Maintenance Kit,Emergency Pipeline Service Kit,3.23,97,10,5,4.4,No
+V241,Force Motors,E081,Hydraulic Excavator,20 Ton Hydraulic Excavator,40.12,96,24,4,4.5,Yes
+V242,Mahindra Truck,E081,Hydraulic Excavator,22 Ton Excavator,37.28,90,20,3,4.5,Yes
+V243,BharatBenz,E081,Hydraulic Excavator,Heavy Duty Excavator,36.78,92,26,3,4.9,Yes
+V244,Tata Motors,E082,Mini Excavator,6 Ton Compact Excavator,21.96,90,13,3,4.6,No
+V245,Ashok Leyland,E082,Mini Excavator,5 Ton Mini Excavator,22.81,97,23,4,4.8,Yes
+V246,Mahindra Truck,E082,Mini Excavator,6 Ton Compact Excavator,22.05,95,16,3,4.6,Yes
+V247,BharatBenz,E083,Backhoe Loader,80 HP Backhoe Loader,33.37,95,14,5,4.6,No
+V248,Tata Motors,E083,Backhoe Loader,Heavy Duty Backhoe,33.42,98,18,3,4.8,Yes
+V249,Ashok Leyland,E083,Backhoe Loader,Heavy Duty Backhoe,31.95,97,29,5,4.4,Yes
+V250,Mahindra Truck,E084,Wheel Loader,Heavy Duty Wheel Loader,28.12,92,21,3,4.5,Yes
+V251,Tata Motors,E084,Wheel Loader,Heavy Duty Wheel Loader,28.3,96,13,5,4.6,No
+V252,BharatBenz,E084,Wheel Loader,2 Cu.m Wheel Loader,26.93,90,16,4,4.6,No
+V253,Tata Motors,E085,Track Mounted Excavator,Heavy Duty Hydraulic Excavator,55.18,93,20,3,4.5,No
+V254,Ashok Leyland,E085,Track Mounted Excavator,Crawler Excavator,54.37,97,15,3,4.7,Yes
+V255,Force Motors,E085,Track Mounted Excavator,22 Ton Track Excavator,55.67,90,14,4,4.7,Yes
+V256,Tata Motors,E086,Road Roller,12 Ton Road Roller,25.37,95,16,4,4.7,Yes
+V257,Ashok Leyland,E086,Road Roller,Hydraulic Compaction Roller,26.94,92,15,5,4.7,Yes
+V258,Mahindra Truck,E086,Road Roller,12 Ton Road Roller,24.23,90,17,3,4.6,Yes
+V259,Force Motors,E087,Vibratory Road Roller,12 Ton Double Drum Roller,31.13,97,19,3,4.5,Yes
+V260,Tata Motors,E087,Vibratory Road Roller,High Frequency Roller,29.37,95,20,5,4.8,Yes
+V261,BharatBenz,E087,Vibratory Road Roller,10 Ton Vibratory Roller,29.21,96,20,5,4.7,Yes
+V262,Mahindra Truck,E088,Asphalt Paver Machine,6 m Asphalt Paver,48.1,93,15,5,4.8,Yes
+V263,Force Motors,E088,Asphalt Paver Machine,6 m Asphalt Paver,45.71,97,30,3,4.8,No
+V264,Tata Motors,E088,Asphalt Paver Machine,Automatic Road Paver,47.94,92,21,5,4.6,Yes
+V265,Crompton,E089,Concrete Mixer Machine,500 L Concrete Mixer,8.88,97,17,4,4.6,Yes
+V266,BEML,E089,Concrete Mixer Machine,Heavy Duty Concrete Mixer,8.57,92,18,3,4.8,Yes
+V267,CASE India,E089,Concrete Mixer Machine,Heavy Duty Concrete Mixer,9.51,90,12,5,4.4,Yes
+V268,Crompton,E090,Concrete Vibrator,Electric Concrete Vibrator,3.12,98,14,5,4.8,Yes
+V269,BEML,E090,Concrete Vibrator,Electric Concrete Vibrator,2.87,92,20,3,4.4,Yes
+V270,JCB India,E090,Concrete Vibrator,Industrial Concrete Vibrator,3.23,90,13,3,4.8,No
+V271,KSB Pumps,E091,Asphalt Cutter,Heavy Duty Road Cutter,7.03,96,18,5,4.8,Yes
+V272,Kirloskar,E091,Asphalt Cutter,Hydraulic Asphalt Cutting Machine,7.55,91,26,5,4.9,Yes
+V273,CASE India,E091,Asphalt Cutter,14 HP Asphalt Cutter,7.4,93,19,4,4.7,No
+V274,Crompton,E092,Road Marking Machine,Self Propelled Marking Machine,10.12,98,29,3,4.7,Yes
+V275,Kirloskar,E092,Road Marking Machine,Thermoplastic Road Marking Machine,9.88,98,26,4,4.5,Yes
+V276,BEML,E092,Road Marking Machine,Self Propelled Marking Machine,10.3,98,21,4,4.7,Yes
+V277,ACE,E093,Concrete Cutting Machine,Heavy Duty Concrete Cutting Machine,8.19,91,24,5,4.6,Yes
+V278,Kirloskar,E093,Concrete Cutting Machine,Heavy Duty Concrete Cutting Machine,8.2,96,17,3,4.7,No
+V279,KSB Pumps,E093,Concrete Cutting Machine,Heavy Duty Concrete Cutting Machine,8.2,94,12,3,4.6,Yes
+V280,Kirloskar,E094,Crack Sealing Machine,Automatic Crack Sealing Unit,10.46,92,26,5,4.5,Yes
+V281,CASE India,E094,Crack Sealing Machine,Automatic Crack Sealing Unit,11.68,90,19,4,4.7,Yes
+V282,Crompton,E094,Crack Sealing Machine,Hot Melt Crack Sealer,11.78,95,14,4,4.5,Yes
+V283,Tata Motors,E095,Tipper Truck,20 Ton Hydraulic Tipper,19.15,94,29,5,4.5,Yes
+V284,BharatBenz,E095,Tipper Truck,16 Ton Tipper,21.45,98,19,4,4.6,No
+V285,Mahindra Truck,E095,Tipper Truck,20 Ton Hydraulic Tipper,21.55,96,21,5,4.6,Yes
+V286,Force Motors,E096,Dump Truck,20 Ton Dump Truck,28.2,93,27,5,4.8,Yes
+V287,Mahindra Truck,E096,Dump Truck,Mining Grade Dump Truck,29.93,95,29,4,4.8,Yes
+V288,BharatBenz,E096,Dump Truck,20 Ton Dump Truck,30.11,98,25,3,4.8,Yes
+V289,Mahindra Truck,E097,Tyre Mounted Mobile Crane,25 Ton Mobile Crane,43.54,90,10,5,4.6,Yes
+V290,Tata Motors,E097,Tyre Mounted Mobile Crane,40 Ton Hydraulic Crane,41.17,96,27,3,4.6,No
+V291,BharatBenz,E097,Tyre Mounted Mobile Crane,Heavy Lift Crane,44.78,96,26,4,4.7,Yes
+V292,JCB India,E098,Portable Concrete Pump,Portable Hydraulic Concrete Pump,14.48,91,12,4,4.7,No
+V293,Crompton,E098,Portable Concrete Pump,Trailer Mounted Concrete Pump,13.69,96,11,3,4.5,No
+V294,KSB Pumps,E098,Portable Concrete Pump,30 m Concrete Pump,13.9,98,19,3,4.5,Yes
+V295,ACE,E099,Hydraulic Breaker,20 Ton Hydraulic Breaker,19.4,93,27,3,4.4,No
+V296,JCB India,E099,Hydraulic Breaker,20 Ton Hydraulic Breaker,18.95,92,28,5,4.5,Yes
+V297,Kirloskar,E099,Hydraulic Breaker,20 Ton Hydraulic Breaker,18.12,93,24,5,4.8,Yes
+V298,Mahindra Truck,E100,Road Surface Milling Machine,Road Rehabilitation Machine,47.16,95,22,3,4.8,No
+V299,BharatBenz,E100,Road Surface Milling Machine,Cold Milling Machine,47.26,97,13,5,4.8,Yes
+V300,Tata Motors,E100,Road Surface Milling Machine,Cold Milling Machine,44.34,95,30,5,4.6,Yes
+V301,CASE India,E101,Portable Generator for Road Work,25 KVA Road Generator,5.22,94,24,4,4.7,Yes
+V302,JCB India,E101,Portable Generator for Road Work,Silent Portable Generator,5.32,94,26,4,4.6,No
+V303,KSB Pumps,E101,Portable Generator for Road Work,Silent Portable Generator,5.3,95,11,5,4.4,Yes
+V304,Nilkamal,E102,Traffic Cone Deployment Unit,Automatic Traffic Cone Deployer,4.08,96,27,4,4.8,Yes
+V305,Safari Industries,E102,Traffic Cone Deployment Unit,Road Safety Cone Machine,3.91,94,21,3,4.8,No
+V306,Supreme,E102,Traffic Cone Deployment Unit,Road Safety Cone Machine,4.04,94,18,4,4.4,No
+V307,ACE,E103,Road Repair Patch Machine,Asphalt Patch Repair Unit,18.15,96,20,4,4.8,Yes
+V308,KSB Pumps,E103,Road Repair Patch Machine,Road Maintenance Machine,18.23,96,12,3,4.6,Yes
+V309,Kirloskar,E103,Road Repair Patch Machine,Road Maintenance Machine,17.0,94,28,3,4.5,No
+V310,CASE India,E104,Curb Stone Laying Machine,Automatic Kerb Paver,13.22,91,15,4,4.7,Yes
+V311,Crompton,E104,Curb Stone Laying Machine,Hydraulic Curb Stone Laying Machine,12.72,94,28,3,4.9,Yes
+V312,BEML,E104,Curb Stone Laying Machine,Hydraulic Curb Stone Laying Machine,13.69,90,30,3,4.9,Yes
+V313,CASE India,E105,Pavement Compactor,Heavy Duty Plate Compactor,15.94,91,21,4,4.9,No
+V314,KSB Pumps,E105,Pavement Compactor,Walk Behind Compactor,15.87,94,24,3,4.6,Yes
+V315,Crompton,E105,Pavement Compactor,Walk Behind Compactor,16.73,96,25,3,4.8,Yes
+V316,BEML,E106,Diesel Generator Set,Silent Generator,14.36,98,22,4,4.5,Yes
+V317,KSB Pumps,E106,Diesel Generator Set,Silent Generator,15.74,98,18,3,4.8,Yes
+V318,Kirloskar,E106,Diesel Generator Set,125 KVA DG Set,14.51,97,28,3,4.5,Yes
+V319,ACE,E107,Portable Generator,40 KVA Generator,6.39,93,17,3,4.6,Yes
+V320,CASE India,E107,Portable Generator,Portable Diesel Generator,5.74,91,25,4,4.9,Yes
+V321,Crompton,E107,Portable Generator,40 KVA Generator,5.83,90,27,3,4.9,Yes
+V322,BharatBenz,E108,Street Light Maintenance Lift,16 m Maintenance Lift,19.22,98,19,5,4.4,No
+V323,Tata Motors,E108,Street Light Maintenance Lift,14 m Hydraulic Lift,18.1,95,13,3,4.7,Yes
+V324,Force Motors,E108,Street Light Maintenance Lift,Boom Lift Vehicle,17.37,92,25,3,4.6,Yes
+V325,Ashok Leyland,E109,Transformer Maintenance Vehicle,Electrical Maintenance Truck,24.94,98,22,3,4.7,Yes
+V326,Force Motors,E109,Transformer Maintenance Vehicle,Transformer Repair Vehicle,24.39,90,15,4,4.7,Yes
+V327,Mahindra Truck,E109,Transformer Maintenance Vehicle,Power Utility Van,24.92,95,26,3,4.6,Yes
+V328,Bosch,E110,Electric Cable Locator,Cable Route Locator,9.27,92,19,4,4.5,No
+V329,Siemens,E110,Electric Cable Locator,Cable Route Locator,9.36,96,25,4,4.4,Yes
+V330,ABB,E110,Electric Cable Locator,Underground Cable Detector,9.67,91,19,5,4.6,Yes
+V331,Honeywell,E111,Underground Fault Detector,Digital Cable Fault Locator,11.79,90,23,3,4.4,No
+V332,Schneider Electric,E111,Underground Fault Detector,HV Cable Fault Detector,10.77,94,17,5,4.4,Yes
+V333,L&T,E111,Underground Fault Detector,Digital Cable Fault Locator,10.96,92,11,5,4.7,Yes
+V334,ACE,E112,Portable Tower Light,Mobile Lighting Tower,7.46,93,24,5,4.7,No
+V335,CASE India,E112,Portable Tower Light,Diesel Tower Light,7.42,94,15,5,4.7,Yes
+V336,Crompton,E112,Portable Tower Light,9 m LED Tower Light,7.46,90,15,3,4.7,Yes
+V337,Honeywell,E113,Smart Street Light Controller,Central Street Light Controller,10.68,96,27,4,4.8,Yes
+V338,Bosch,E113,Smart Street Light Controller,Smart Pole Controller,10.08,92,23,3,4.6,No
+V339,Schneider Electric,E113,Smart Street Light Controller,IoT Smart Lighting Controller,10.39,95,29,4,4.5,Yes
+V340,Mahindra Truck,E114,Electrical Maintenance Van,Electrical Repair Vehicle,15.9,97,12,5,4.9,Yes
+V341,Ashok Leyland,E114,Electrical Maintenance Van,Electrical Service Van,15.79,95,12,5,4.4,No
+V342,Force Motors,E114,Electrical Maintenance Van,Power Utility Maintenance Vehicle,16.66,96,30,3,4.6,Yes
+V343,ABB,E115,Portable Solar Lighting Unit,Portable Solar Tower Light,7.95,90,16,5,4.6,Yes
+V344,L&T,E115,Portable Solar Lighting Unit,Portable Solar Tower Light,8.57,94,10,4,4.8,No
+V345,Siemens,E115,Portable Solar Lighting Unit,Emergency Solar Lighting System,8.25,94,20,3,4.5,Yes
+V346,Mahindra Truck,E116,Mobile Repair Van,Municipal Repair Van,14.45,91,18,3,4.7,Yes
+V347,Force Motors,E116,Mobile Repair Van,Utility Service Vehicle,14.63,98,11,5,4.6,Yes
+V348,Ashok Leyland,E116,Mobile Repair Van,Municipal Repair Van,14.22,94,18,4,4.5,Yes
+V349,ABB,E117,Voltage Monitoring Device,Digital Voltage Monitor,4.94,96,18,5,4.9,Yes
+V350,Bosch,E117,Voltage Monitoring Device,Digital Voltage Monitor,5.01,94,23,4,4.9,Yes
+V351,L&T,E117,Voltage Monitoring Device,Smart Voltage Monitoring Unit,4.81,90,17,5,4.6,No
+V352,Nilkamal,E118,Underground Cable Repair Kit,11 kV Cable Repair Kit,6.19,94,23,3,4.6,Yes
+V353,Supreme,E118,Underground Cable Repair Kit,Underground Cable Maintenance Kit,6.19,90,12,3,4.8,Yes
+V354,Safari Industries,E118,Underground Cable Repair Kit,11 kV Cable Repair Kit,6.05,95,27,5,4.4,Yes
+V355,Siemens,E119,Portable Battery Backup Unit,Emergency Battery Power Pack,4.11,97,30,4,4.9,Yes
+V356,ABB,E119,Portable Battery Backup Unit,Emergency Battery Power Pack,3.8,94,24,4,4.6,Yes
+V357,Bosch,E119,Portable Battery Backup Unit,UPS Battery Backup Unit,4.21,91,14,4,4.7,Yes
+V358,L&T,E120,Smart Utility Monitoring Console,SCADA Monitoring Console,20.55,91,11,4,4.5,Yes
+V359,Bosch,E120,Smart Utility Monitoring Console,SCADA Monitoring Console,20.37,93,29,3,4.7,Yes
+V360,Siemens,E120,Smart Utility Monitoring Console,Smart Utility Command Console,21.41,95,25,4,4.9,No
+V361,Nilkamal,E121,Portable Toilet Unit,FRP Portable Toilet,2.94,94,22,3,4.8,Yes
+V362,Supreme,E121,Portable Toilet Unit,Bio Toilet Unit,2.93,90,23,3,4.9,No
+V363,Sintex,E121,Portable Toilet Unit,FRP Portable Toilet,3.11,97,20,4,4.7,Yes
+V364,Tata Motors,E122,Mobile Toilet Van,Luxury Mobile Toilet Van,12.86,95,11,3,4.7,Yes
+V365,Mahindra Truck,E122,Mobile Toilet Van,6 Cabin Mobile Toilet,11.61,91,21,3,4.9,Yes
+V366,BharatBenz,E122,Mobile Toilet Van,Portable Washroom Vehicle,11.47,93,22,4,4.5,Yes
+V367,JCB India,E123,Public Toilet Cleaning Machine,High Pressure Toilet Cleaning Machine,5.27,94,28,4,4.4,No
+V368,BEML,E123,Public Toilet Cleaning Machine,Municipal Toilet Maintenance Machine,5.09,96,28,5,4.7,Yes
+V369,KSB Pumps,E123,Public Toilet Cleaning Machine,Municipal Toilet Maintenance Machine,4.9,97,23,5,4.6,Yes
+V370,Crompton,E124,High Pressure Washer,250 Bar Washer,4.25,91,25,4,4.8,Yes
+V371,ACE,E124,High Pressure Washer,Industrial Pressure Washer,3.94,90,11,5,4.6,Yes
+V372,KSB Pumps,E124,High Pressure Washer,Heavy Duty Cleaning Machine,3.84,98,29,4,4.7,No
+V373,CASE India,E125,Disinfection Sprayer Unit,High Pressure Spray Unit,2.06,91,22,4,4.8,Yes
+V374,KSB Pumps,E125,Disinfection Sprayer Unit,500 L Disinfection Sprayer,1.98,97,24,4,4.4,Yes
+V375,ACE,E125,Disinfection Sprayer Unit,High Pressure Spray Unit,1.93,90,19,5,4.6,Yes
+V376,KSB Pumps,E126,Fogging Machine,ULV Fogger,2.86,94,27,5,4.4,Yes
+V377,Crompton,E126,Fogging Machine,Vector Control Fogger,2.9,92,17,4,4.7,Yes
+V378,BEML,E126,Fogging Machine,ULV Fogger,2.89,92,19,3,4.6,Yes
+V379,Supreme,E127,Portable Cleaning Cart,Municipal Cleaning Cart,1.01,98,10,5,4.8,Yes
+V380,Safari Industries,E127,Portable Cleaning Cart,Heavy Duty Utility Cart,1.05,97,14,5,4.6,Yes
+V381,Nilkamal,E127,Portable Cleaning Cart,Municipal Cleaning Cart,1.04,98,16,4,4.8,No
+V382,Supreme,E128,Manual Cleaning Trolley,Multi Utility Cleaning Cart,1.07,96,19,4,4.5,No
+V383,Safari Industries,E128,Manual Cleaning Trolley,Municipal Cleaning Trolley,1.04,98,28,4,4.8,Yes
+V384,Nilkamal,E128,Manual Cleaning Trolley,Multi Utility Cleaning Cart,1.07,94,26,5,4.8,No
+V385,Prince Pipes,E129,Portable Hand Wash Station,Mobile Hand Wash Station,1.9,91,13,4,4.4,Yes
+V386,Nilkamal,E129,Portable Hand Wash Station,Portable Hygiene Unit,2.07,94,10,4,4.7,Yes
+V387,Supreme,E129,Portable Hand Wash Station,Foot Operated Wash Station,2.07,96,18,3,4.9,Yes
+V388,Prince Pipes,E130,Sanitary Waste Disposal Unit,Bio Waste Disposal Unit,5.4,92,10,5,4.6,Yes
+V389,Sintex,E130,Sanitary Waste Disposal Unit,Medical Waste Bin,4.78,91,15,5,4.8,No
+V390,Supreme,E130,Sanitary Waste Disposal Unit,Sanitary Waste Collection Unit,4.82,92,23,5,4.7,Yes
+V391,Sintex,E131,Portable Urinal Unit,Mobile Urinal Cabin,2.02,92,27,3,4.7,Yes
+V392,Nilkamal,E131,Portable Urinal Unit,FRP Urinal Unit,2.11,91,17,5,4.7,Yes
+V393,Prince Pipes,E131,Portable Urinal Unit,Mobile Urinal Cabin,2.03,93,10,4,4.6,Yes
+V394,BharatBenz,E132,Public Washroom Maintenance Vehicle,Utility Maintenance Vehicle,9.6,98,22,5,4.6,Yes
+V395,Mahindra Truck,E132,Public Washroom Maintenance Vehicle,Municipal Cleaning Van,9.98,93,20,4,4.8,Yes
+V396,Force Motors,E132,Public Washroom Maintenance Vehicle,Utility Maintenance Vehicle,9.54,92,23,3,4.8,Yes
+V397,ACE,E133,Drain Disinfection Unit,Drain Sanitization Machine,5.99,97,14,5,4.5,Yes
+V398,BEML,E133,Drain Disinfection Unit,Chemical Spray Unit,6.06,97,18,5,4.8,No
+V399,KSB Pumps,E133,Drain Disinfection Unit,Drain Disinfection System,6.18,98,13,3,4.8,Yes
+V400,Crompton,E134,Portable Steam Cleaning Machine,Portable Steam Washer,4.15,96,22,5,4.5,Yes
+V401,CASE India,E134,Portable Steam Cleaning Machine,High Temperature Cleaner,4.32,96,24,4,4.8,Yes
+V402,Kirloskar,E134,Portable Steam Cleaning Machine,High Temperature Cleaner,4.27,97,27,4,4.7,Yes
+V403,Tata Motors,E135,Street Disinfection Vehicle,Mounted Spray Vehicle,14.96,93,11,4,4.7,Yes
+V404,BharatBenz,E135,Street Disinfection Vehicle,Municipal Sanitization Truck,14.46,96,15,3,4.5,Yes
+V405,Ashok Leyland,E135,Street Disinfection Vehicle,Mounted Spray Vehicle,14.58,96,22,4,4.7,No
+V406,Nilkamal,E136,Biohazard Disposal Container,Infectious Waste Container,6.0,91,16,3,4.6,Yes
+V407,Supreme,E136,Biohazard Disposal Container,Infectious Waste Container,6.13,91,16,5,4.6,No
+V408,Sintex,E136,Biohazard Disposal Container,Medical Waste Container,5.82,92,13,4,4.6,No
+V409,Supreme,E137,Portable Sanitation Kiosk,Portable Hygiene Booth,8.27,90,19,5,4.7,Yes
+V410,Prince Pipes,E137,Portable Sanitation Kiosk,Public Sanitation Kiosk,8.13,94,10,3,4.8,No
+V411,Sintex,E137,Portable Sanitation Kiosk,Portable Hygiene Booth,8.13,98,16,4,4.9,No
+V412,Tata Motors,E138,Municipal Cleaning Utility Vehicle,Compact Cleaning Vehicle,11.31,90,29,3,4.8,Yes
+V413,Ashok Leyland,E138,Municipal Cleaning Utility Vehicle,Compact Cleaning Vehicle,11.81,98,30,5,4.7,Yes
+V414,BharatBenz,E138,Municipal Cleaning Utility Vehicle,Municipal Service Vehicle,11.03,97,27,5,4.5,Yes
+V415,BharatBenz,E139,Fire Tender Vehicle,Quick Response Fire Tender,65.54,97,13,4,4.6,Yes
+V416,Ashok Leyland,E139,Fire Tender Vehicle,6000 L Fire Tender BS-VI,67.32,94,11,4,4.8,Yes
+V417,Force Motors,E139,Fire Tender Vehicle,4500 L Water + 500 L Foam Tender,66.59,93,26,3,4.5,Yes
+V418,Ashok Leyland,E140,Portable Rescue Boat,Inflatable Flood Rescue Boat,17.99,93,18,5,4.8,Yes
+V419,Tata Motors,E140,Portable Rescue Boat,8 Person FRP Rescue Boat,18.26,90,11,4,4.7,Yes
+V420,BharatBenz,E140,Portable Rescue Boat,Aluminium Rescue Boat,18.79,92,24,3,4.8,No
+V421,Mahindra Truck,E141,Emergency Communication Van,Emergency Command Van,19.76,94,21,3,4.8,No
+V422,Tata Motors,E141,Emergency Communication Van,Communication Response Vehicle,19.05,97,12,5,4.4,Yes
+V423,Force Motors,E141,Emergency Communication Van,Communication Response Vehicle,19.53,95,27,5,4.5,Yes
+V424,BharatBenz,E142,Portable Medical Response Unit,Mobile Medical Support Unit,15.36,95,11,3,4.6,Yes
+V425,Tata Motors,E142,Portable Medical Response Unit,Portable Response Unit,15.79,94,15,3,4.4,Yes
+V426,Ashok Leyland,E142,Portable Medical Response Unit,Mobile Medical Support Unit,15.11,95,29,4,4.5,No
+V427,Crompton,E143,Emergency Water Pump,High Capacity Emergency Pump,10.05,93,21,5,4.5,No
+V428,JCB India,E143,Emergency Water Pump,High Capacity Emergency Pump,10.43,92,28,3,4.5,No
+V429,BEML,E143,Emergency Water Pump,30 HP Diesel Flood Pump,10.73,91,26,5,4.5,No
+V430,BharatBenz,E144,Debris Removal Loader,Municipal Debris Loader,23.67,97,22,5,4.9,Yes
+V431,Mahindra Truck,E144,Debris Removal Loader,Debris Loader,24.76,98,23,4,4.7,Yes
+V432,Force Motors,E144,Debris Removal Loader,Hydraulic Debris Loader,24.98,97,26,4,4.5,No
+V433,CASE India,E145,Portable Lighting Tower,Diesel Lighting Tower,6.95,92,25,5,4.6,No
+V434,BEML,E145,Portable Lighting Tower,Emergency Lighting Mast,7.08,97,23,4,4.8,Yes
+V435,Crompton,E145,Portable Lighting Tower,LED Lighting Tower,6.88,98,30,4,4.6,Yes
+V436,ACE,E146,Emergency Generator Unit,Automatic Backup Generator,11.97,94,10,5,4.6,Yes
+V437,CASE India,E146,Emergency Generator Unit,Silent DG Backup Unit,12.22,97,28,4,4.5,Yes
+V438,BEML,E146,Emergency Generator Unit,Silent DG Backup Unit,11.99,97,18,4,4.7,No
+V439,Nilkamal,E147,Portable Emergency Shelter Unit,Portable Relief Shelter,16.95,93,10,5,4.8,No
+V440,Supreme,E147,Portable Emergency Shelter Unit,Portable Relief Shelter,15.37,91,30,5,4.6,Yes
+V441,Sintex,E147,Portable Emergency Shelter Unit,Emergency Shelter Tent,16.97,91,25,3,4.8,Yes
+V442,CASE India,E148,Hydraulic Rescue Cutter,Vehicle Rescue Cutter,8.82,97,11,5,4.9,Yes
+V443,BEML,E148,Hydraulic Rescue Cutter,Vehicle Rescue Cutter,9.48,93,13,5,4.5,No
+V444,ACE,E148,Hydraulic Rescue Cutter,Hydraulic Rescue Tool,9.22,95,15,5,4.7,Yes
+V445,BharatBenz,E149,Emergency Evacuation Vehicle,Disaster Evacuation Vehicle,29.34,96,17,5,4.5,Yes
+V446,Force Motors,E149,Emergency Evacuation Vehicle,Disaster Evacuation Vehicle,27.81,94,22,4,4.8,No
+V447,Ashok Leyland,E149,Emergency Evacuation Vehicle,Rapid Response Vehicle,29.29,93,29,3,4.6,Yes
+V448,Siemens,E150,Portable Public Warning System,Portable PA System,5.84,93,16,4,4.4,Yes
+V449,L&T,E150,Portable Public Warning System,Mobile Alert System,6.06,96,16,4,4.8,Yes
+V450,Honeywell,E150,Portable Public Warning System,Emergency Warning Unit,6.07,92,18,4,4.5,Yes
+V451,Siemens,E151,Flood Monitoring Sensor,IoT Flood Sensor,7.93,96,18,5,4.7,Yes
+V452,Schneider Electric,E151,Flood Monitoring Sensor,IoT Flood Sensor,8.25,97,25,3,4.7,Yes
+V453,Bosch,E151,Flood Monitoring Sensor,IoT Flood Sensor,7.66,97,19,4,4.7,Yes
+V454,Siemens,E152,Emergency Drone Surveillance Unit,Long Range UAV,21.78,94,26,5,4.7,Yes
+V455,Honeywell,E152,Emergency Drone Surveillance Unit,4K Thermal Drone,21.1,96,13,5,4.7,No
+V456,Schneider Electric,E152,Emergency Drone Surveillance Unit,4K Thermal Drone,21.3,98,27,4,4.5,Yes
+V457,Nilkamal,E153,Portable Life Support Kit,Portable Medical Support Kit,3.84,90,20,3,4.9,Yes
+V458,Safari Industries,E153,Portable Life Support Kit,Portable Medical Support Kit,4.01,93,24,4,4.9,Yes
+V459,Supreme,E153,Portable Life Support Kit,Emergency Life Support Kit,4.06,96,18,5,4.5,No
+V460,Force Motors,E154,Disaster Recovery Crane,Heavy Duty Rescue Crane,40.91,98,30,5,4.5,No
+V461,Ashok Leyland,E154,Disaster Recovery Crane,Recovery Crane,39.37,98,26,3,4.9,Yes
+V462,Mahindra Truck,E154,Disaster Recovery Crane,Recovery Crane,39.65,94,21,5,4.5,Yes
+V463,Tata Motors,E155,Emergency Ambulance Van,Advanced Life Support Ambulance,21.38,90,27,5,4.6,Yes
+V464,Ashok Leyland,E155,Emergency Ambulance Van,ALS Ambulance BS-VI,22.8,97,22,3,4.5,No
+V465,BharatBenz,E155,Emergency Ambulance Van,Advanced Life Support Ambulance,23.23,93,18,3,4.7,Yes
+V466,Honeywell,E156,Portable Command Center Unit,Incident Command Vehicle,24.75,93,16,3,4.8,Yes
+V467,Bosch,E156,Portable Command Center Unit,Mobile Command Center,26.72,96,20,3,4.4,Yes
+V468,Siemens,E156,Portable Command Center Unit,Emergency Control Unit,24.82,94,24,5,4.8,No
+V469,Tata Motors,E157,Rapid Response Vehicle,Emergency Utility Vehicle,17.71,97,30,5,4.7,Yes
+V470,Force Motors,E157,Rapid Response Vehicle,Emergency Utility Vehicle,18.06,91,27,5,4.4,Yes
+V471,Mahindra Truck,E157,Rapid Response Vehicle,Emergency Utility Vehicle,19.4,90,13,5,4.7,Yes
+V472,Supreme,E158,Emergency Traffic Diversion Unit,Emergency Traffic Control Kit,6.33,92,25,5,4.8,Yes
+V473,Safari Industries,E158,Emergency Traffic Diversion Unit,Road Diversion Unit,6.24,92,18,3,4.4,Yes
+V474,Nilkamal,E158,Emergency Traffic Diversion Unit,Traffic Diversion Trailer,6.09,96,18,3,4.6,No
+V475,Crompton,E159,Portable Search Light Unit,Emergency Search Lamp,5.0,94,30,4,4.7,No
+V476,ACE,E159,Portable Search Light Unit,LED Search Light,4.98,90,11,4,4.4,Yes
+V477,JCB India,E159,Portable Search Light Unit,Portable Rescue Light,5.29,92,21,3,4.6,Yes
+V478,Mahindra Truck,E160,Disaster Supply Transport Vehicle,Disaster Logistics Vehicle,20.07,94,24,3,4.7,Yes
+V479,Ashok Leyland,E160,Disaster Supply Transport Vehicle,Relief Supply Truck,21.18,91,11,4,4.7,Yes
+V480,BharatBenz,E160,Disaster Supply Transport Vehicle,Relief Supply Truck,20.1,98,22,3,4.7,Yes
+V481,BEML,E161,Sewage Treatment Plant Pump,75 HP STP Pump,33.42,94,24,4,4.7,Yes
+V482,ACE,E161,Sewage Treatment Plant Pump,75 HP STP Pump,34.42,94,22,4,4.4,Yes
+V483,Crompton,E161,Sewage Treatment Plant Pump,100 HP Sewage Pump,36.01,94,12,5,4.7,No
+V484,BharatBenz,E162,Portable Laboratory Testing Unit,Water Testing Lab Van,17.99,98,16,3,4.4,Yes
+V485,Ashok Leyland,E162,Portable Laboratory Testing Unit,Portable Testing Station,18.62,92,10,3,4.6,Yes
+V486,Tata Motors,E162,Portable Laboratory Testing Unit,Portable Testing Station,18.92,92,17,5,4.8,Yes
+V487,Schneider Electric,E163,Air Quality Monitoring Station,Continuous AQMS,13.97,98,16,4,4.8,Yes
+V488,ABB,E163,Air Quality Monitoring Station,Continuous AQMS,14.51,91,12,3,4.9,Yes
+V489,Bosch,E163,Air Quality Monitoring Station,Smart Air Quality Station,13.31,98,28,3,4.5,Yes
+V490,L&T,E164,Noise Pollution Monitoring Unit,Noise Monitoring Station,8.99,94,13,3,4.5,Yes
+V491,ABB,E164,Noise Pollution Monitoring Unit,Noise Monitoring Station,8.96,94,13,5,4.9,Yes
+V492,Honeywell,E164,Noise Pollution Monitoring Unit,Environmental Noise Monitor,9.09,96,21,3,4.7,Yes
+V493,Crompton,E165,Construction Debris Crusher,Mobile Debris Crusher,21.59,96,27,5,4.4,Yes
+V494,JCB India,E165,Construction Debris Crusher,Concrete Rubble Crusher,20.04,96,16,3,4.5,Yes
+V495,Kirloskar,E165,Construction Debris Crusher,Construction Waste Crusher,19.75,90,18,4,4.6,Yes
+V496,Honeywell,E166,Smart Parking Monitoring Unit,IoT Parking Sensor,12.05,90,23,4,4.6,No
+V497,ABB,E166,Smart Parking Monitoring Unit,IoT Parking Sensor,12.64,91,29,5,4.9,No
+V498,Siemens,E166,Smart Parking Monitoring Unit,Smart Parking Controller,12.76,92,22,4,4.8,No
+V499,ABB,E167,Municipal Survey Drone,RTK Survey Drone,17.17,95,18,5,4.6,No
+V500,L&T,E167,Municipal Survey Drone,Photogrammetry Drone,15.85,97,23,4,4.5,Yes
+V501,Siemens,E167,Municipal Survey Drone,RTK Survey Drone,17.13,91,23,4,4.8,No
+V502,ABB,E168,GIS Mapping Workstation,Planning Workstation,19.23,94,18,4,4.7,Yes
+V503,Schneider Electric,E168,GIS Mapping Workstation,High Performance GIS Workstation,17.89,97,11,5,4.9,Yes
+V504,Bosch,E168,GIS Mapping Workstation,Planning Workstation,18.6,95,20,3,4.6,Yes
+V505,KSB Pumps,E169,Portable Air Compressor,Diesel Air Compressor,7.05,98,25,5,4.7,Yes
+V506,CASE India,E169,Portable Air Compressor,Portable Compressor,6.83,93,20,4,4.6,Yes
+V507,ACE,E169,Portable Air Compressor,Industrial Air Compressor,7.33,96,17,5,4.8,No
+V508,Tata Motors,E170,Industrial Pollution Response Unit,Hazardous Material Response Unit,24.68,92,14,4,4.6,Yes
+V509,BharatBenz,E170,Industrial Pollution Response Unit,Hazardous Material Response Unit,24.46,98,24,5,4.6,No
+V510,Ashok Leyland,E170,Industrial Pollution Response Unit,Environmental Emergency Vehicle,23.11,95,10,5,4.9,Yes
+V511,Schneider Electric,E171,Smart Civic Monitoring Console,Urban Command Console,22.07,95,25,4,4.8,Yes
+V512,Honeywell,E171,Smart Civic Monitoring Console,Civic Monitoring Console,20.99,93,28,4,4.7,No
+V513,L&T,E171,Smart Civic Monitoring Console,Urban Command Console,22.71,97,18,4,4.7,No
+V514,Force Motors,E172,Portable Municipal Command Vehicle,Integrated Municipal Operations Van,25.69,93,18,5,4.7,Yes
+V515,BharatBenz,E172,Portable Municipal Command Vehicle,Mobile Civic Command Center,27.12,93,23,3,4.7,Yes
+V516,Tata Motors,E172,Portable Municipal Command Vehicle,Mobile Civic Command Center,27.15,93,11,3,4.4,Yes
+V517,Mahindra Truck,E173,Integrated Utility Maintenance Vehicle,Integrated Municipal Utility Truck,29.61,97,23,4,4.7,No
+V518,Force Motors,E173,Integrated Utility Maintenance Vehicle,Multi Utility Maintenance Vehicle,31.37,96,15,4,4.5,Yes
+V519,BharatBenz,E173,Integrated Utility Maintenance Vehicle,Smart Utility Service Vehicle,31.48,94,10,3,4.8,Yes

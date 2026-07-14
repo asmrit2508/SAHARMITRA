@@ -1,0 +1,29 @@
+equipment_name,small_spec,medium_spec,large_spec,small_multiplier,medium_multiplier,large_multiplier
+Garbage Compactor Truck,5 m3 Compactor,10 m3 Compactor,18 m3 Heavy Duty Compactor,1.0,1.35,1.75
+Mini Garbage Tipper,1 Ton Payload,2 Ton Payload,4 Ton Payload,1.0,1.25,1.60
+Refuse Collector Vehicle,3 m3 Collector,6 m3 Collector,12 m3 Collector,1.0,1.30,1.65
+Portable Waste Compactor,100 Kg/hr Unit,300 Kg/hr Unit,700 Kg/hr Industrial Unit,1.0,1.35,1.70
+Mechanical Road Sweeper,Compact Sweeper 2m Width,Standard Sweeper 4m Width,Industrial Sweeper 6m Width,1.0,1.30,1.60
+Vacuum Road Sweeper,Low Suction 2000L,Medium Suction 5000L,High Suction 10000L,1.0,1.40,1.80
+Dumper Placer Vehicle,2 Ton Capacity,5 Ton Capacity,10 Ton Capacity,1.0,1.30,1.65
+Waste Collection Container,500 Liter Container,1000 Liter Container,3000 Liter Container,1.0,1.20,1.50
+Hydraulic Waste Loader,2 Ton Loader,5 Ton Loader,8 Ton Industrial Loader,1.0,1.35,1.70
+Transfer Station Container,1000 Liter Unit,5000 Liter Unit,12000 Liter Unit,1.0,1.30,1.65
+Plastic Baler Machine,50 Kg/hr Baler,150 Kg/hr Baler,400 Kg/hr Industrial Baler,1.0,1.35,1.75
+Organic Waste Shredder,100 Kg/hr Shredder,300 Kg/hr Shredder,800 Kg/hr Industrial Shredder,1.0,1.35,1.75
+Bio Waste Composting Machine,250 Kg/day Unit,750 Kg/day Unit,2 Ton/day Industrial Unit,1.0,1.35,1.80
+Portable Garbage Bin Set,Set of 10 Bins,Set of 25 Bins,Set of 75 Bins,1.0,1.20,1.50
+Skid Steer Loader,Compact Loader 500 Kg,Standard Loader 1000 Kg,Heavy Loader 2000 Kg,1.0,1.35,1.70
+Waste Conveyor Belt Unit,2 Meter Conveyor,5 Meter Conveyor,12 Meter Conveyor,1.0,1.25,1.55
+Industrial Waste Crusher,200 Kg/hr Crusher,600 Kg/hr Crusher,1500 Kg/hr Industrial Crusher,1.0,1.40,1.85
+Dumpster Container,1 Cubic Meter,3 Cubic Meter,8 Cubic Meter,1.0,1.25,1.55
+Front Loader Waste Vehicle,2 Ton Loader Vehicle,5 Ton Loader Vehicle,10 Ton Loader Vehicle,1.0,1.35,1.70
+Waste Segregation Conveyor,3 Meter Sorting Unit,6 Meter Sorting Unit,15 Meter Sorting Unit,1.0,1.25,1.60
+Leaf Collection Vacuum Unit,1000 Liter Vacuum Unit,3000 Liter Vacuum Unit,7000 Liter Industrial Vacuum Unit,1.0,1.30,1.65
+Portable Bin Lifter,100 Kg Lift Capacity,300 Kg Lift Capacity,800 Kg Lift Capacity,1.0,1.25,1.55
+Waste Hopper Unit,500 Liter Hopper,1500 Liter Hopper,5000 Liter Hopper,1.0,1.25,1.55
+Biomedical Waste Carrier,500 Kg Carrier,1500 Kg Carrier,3000 Kg Carrier,1.0,1.35,1.70
+Municipal Waste Crane,3 Ton Crane,8 Ton Crane,20 Ton Heavy Duty Crane,1.0,1.45,1.90
+Street Cleaning Cart,50 Liter Cart,100 Liter Cart,250 Liter Cart,1.0,1.15,1.35
+Waste Transfer Trailer,2 Ton Trailer,5 Ton Trailer,10 Ton Trailer,1.0,1.30,1.65
+Mobile Waste Collection Unit,1000 Liter Unit,4000 Liter Unit,10000 Liter Unit,1.0,1.35,1.75
