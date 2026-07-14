@@ -42,6 +42,16 @@ st.markdown("""
     max-width: 95%;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    color:#DC2626 !important;
+    font-weight:700;
+}
+
 section[data-testid="stSidebar"] {
 
     background: linear-gradient(
