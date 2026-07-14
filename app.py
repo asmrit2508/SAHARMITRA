@@ -266,7 +266,25 @@ section[data-testid="stSidebar"] * {
     margin-top:40px;
     padding:20px;
 }
+/* MAKE ALL HEADINGS RED */
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    color:#DC2626 !important;
+}
+
+[data-testid="stMarkdownContainer"] h1,
+[data-testid="stMarkdownContainer"] h2,
+[data-testid="stMarkdownContainer"] h3,
+[data-testid="stMarkdownContainer"] h4,
+[data-testid="stMarkdownContainer"] h5,
+[data-testid="stMarkdownContainer"] h6{
+    color:#DC2626 !important;
+}
 </style>
 """, unsafe_allow_html=True)
 
