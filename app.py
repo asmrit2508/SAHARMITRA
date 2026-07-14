@@ -25,7 +25,7 @@ st.set_page_config(
 )
 
 # =========================================================
-# CLEAN CSS (FIXED)
+# CSS
 # =========================================================
 
 st.markdown("""
@@ -42,15 +42,7 @@ st.markdown("""
     max-width: 95%;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6{
-    color:#DC2626 !important;
-    font-weight:700;
-}
+
 
 section[data-testid="stSidebar"] {
 
@@ -133,7 +125,7 @@ section[data-testid="stSidebar"] * {
 
 .section-title {
 
-    color: #0F172A;
+    color: #FF2D2D;
 
     font-size: 26px;
 
@@ -268,23 +260,7 @@ section[data-testid="stSidebar"] * {
 }
 /* MAKE ALL HEADINGS RED */
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6{
-    color:#DC2626 !important;
-}
 
-[data-testid="stMarkdownContainer"] h1,
-[data-testid="stMarkdownContainer"] h2,
-[data-testid="stMarkdownContainer"] h3,
-[data-testid="stMarkdownContainer"] h4,
-[data-testid="stMarkdownContainer"] h5,
-[data-testid="stMarkdownContainer"] h6{
-    color:#DC2626 !important;
-}
 </style>
 """, unsafe_allow_html=True)
 
