@@ -1190,6 +1190,22 @@ if generate_button:
     # Better table display than raw HTML
 
     styled_df = result_df.head(25).copy()
+    
+    # Remove unwanted columns
+    styled_df = styled_df.drop(
+        columns=[
+            "Best Vendor",
+            "Vendor Rating",
+            "Vendor Score"
+        ]
+    )
+
+# Rename column
+    styled_df = styled_df.rename(
+        columns={
+            "Risk Level": "Vendor Risk"
+        }
+    )
 
     def highlight_priority(val):
 
@@ -1238,7 +1254,7 @@ if generate_button:
         )
         .map(
             highlight_risk,
-            subset=["Risk Level"]
+            subset=["Vendor Risk"]
         )
     )
 
