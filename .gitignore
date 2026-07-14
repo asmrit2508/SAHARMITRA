@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.vscode/
+
+.streamlit/secrets.toml
+
+*.log
